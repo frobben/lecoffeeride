@@ -1,0 +1,3757 @@
+# Translation of Plugins - eCommerce Product Catalog Plugin for WordPress - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - eCommerce Product Catalog Plugin for WordPress - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-09-15 08:52:34+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - eCommerce Product Catalog Plugin for WordPress - Stable (latest release)\n"
+
+#: includes/settings/general.php:241
+msgid "Catalog Label"
+msgstr "Catalogus label"
+
+#: includes/settings/general.php:231
+msgid "If you have access to the server files you can also use our %sTheme Integration Guide%s to have full control over the layout."
+msgstr "Als je toegang hebt tot de serverbestanden, kun je ook onze %sTheme Integratiehandleiding%s gebruiken om volledige controle over de lay-out te hebben."
+
+#: includes/settings/general.php:230
+msgid "In theme mode the catalog will use your theme layout for all the catalog pages."
+msgstr "In de themamodus gebruikt de catalogus je themalay-out voor alle cataloguspagina's."
+
+#: includes/settings/general.php:163
+msgid "Layout mode"
+msgstr "Layout modus"
+
+#: includes/settings/general.php:162
+msgid "your theme default template files will be used to display catalog pages."
+msgstr "je thema standaard sjabloonbestanden zullen worden gebruikt om cataloguspagina's weer te geven."
+
+#: includes/settings/general.php:162
+msgid "Theme Mode"
+msgstr "Thema modus"
+
+#: includes/settings/general.php:161
+msgid "fully customizable layout with visual configuration wizard."
+msgstr "volledig aanpasbare lay-out met visuele configuratiewizard."
+
+#: includes/settings/general.php:160
+msgid "will use your theme page template but category pages are disabled."
+msgstr "gebruikt je themapaginasjabloon, maar categoriepagina's zijn uitgeschakeld."
+
+#: includes/settings/general.php:155
+msgid "However, if you prefer to use the theme template files (which is a recommended choice for more advanced users) choose one of the options below."
+msgstr "Als je echter liever de themasjabloon bestanden gebruikt (wat een aanbevolen keuze is voor geavanceerdere gebruikers), kiest je een van de onderstaande opties."
+
+#: includes/settings/general.php:154
+msgid "Place [show_product_catalog] in the text editor where you would like the product list to be displayed on your website."
+msgstr "Plaats [show_product_catalog] in de teksteditor waar je wilt dat de productlijst op jouw website wordt weergegeven."
+
+#: includes/settings/general.php:153
+msgid "The shortcode integration is recommended for beginners."
+msgstr "De shortcode-integratie wordt aanbevolen voor beginners."
+
+#: includes/settings/general.php:136
+msgid "Catalog Layout Integration with the theme"
+msgstr "Catalogus indeling Integratie met het thema"
+
+#: includes/settings/general.php:125
+msgid "Main Catalog Page"
+msgstr "Hoofd catalogus pagina"
+
+#: includes/settings/general.php:123
+msgid "This is the most important setting. The selected page slug will be included in each product url. You can select what will be shown on this page in the Main Listing Page section below. "
+msgstr "Dit is de belangrijkste instelling. De geselecteerde pagina-slug wordt opgenomen in elke product-URL. Je kunt selecteren wat op deze pagina wordt getoond in het gedeelte met de hoofdvermeldingspagina hieronder."
+
+#: functions/functions.php:1339
+msgid "No %s available."
+msgstr "Geen %s beschikbaar."
+
+#: templates/theme-integration.php:74
+msgid "The layout might look like broken at first, however you will be able to adjust it."
+msgstr "De lay-out kan in eerste instantie als gebroken lijken, maar je kunt dit aanpassen."
+
+#: templates/theme-integration.php:70
+msgid "%s is currently running in Advanced Mode."
+msgstr "%s wordt momenteel uitgevoerd in de geavanceerde modus."
+
+#: includes/settings/extension-info.php:34
+msgid "With %sProduct CSV%s you can import, export and update unlimited number of products at once. It also supports all product fields and will import external images."
+msgstr "Met %sProduct CSV%s kun je onbeperkt aantal producten in één keer importeren, exporteren en bijwerken. Het ondersteunt ook alle productvelden en zal externe afbeeldingen importeren."
+
+#: includes/customizer.php:308 includes/customizer.php:313
+msgid "Looking for more options?"
+msgstr "Op zoek naar meer opties?"
+
+#: includes/controls.php:31
+msgid "There's also a range of %1$sCatalog add-ons%2$s available to put additional power in your hands. Check out the %1$sextensions page%2$s in your dashboard for more information."
+msgstr "Er is ook een reeks %1$sCatalogus add-ons%2$s beschikbaar om extra stroom aan je handen te geven. Bekijk de %1$sextensionspagina%2$s in je dashboard voor meer informatie."
+
+#: includes/controls.php:26
+msgid "Check the %1$scatalog settings%2$s for more advanced configuration options."
+msgstr "Controleer de %1$scatalogus-instellingen%2$s voor geavanceerdere configuratie-opties."
+
+#: functions/support.php:42
+msgid "For <b>free support</b> please visit %ssupport forums%s where the plugin developers will give you a valuable advice."
+msgstr "Ga voor <b>gratis ondersteuning</b> ga naar het %ssupport-forums%s waar de ontwikkelaars van plug-ins je een waardevol advies zullen geven."
+
+#: templates/shortcode-catalog.php:210
+msgid "Use the %s or %s shortcode if you just want to display products or categories."
+msgstr "Gebruik de shortcode %s of %s als je alleen producten of categorieën wilt weergeven."
+
+#: templates/shortcode-catalog.php:207
+msgid "All your individual product pages will include this page slug as a parent."
+msgstr "Op al je individuele productpagina's staat deze pagina slug als ouder pagina."
+
+#: templates/shortcode-catalog.php:204
+msgid "Currently no page is set to show main product listing. Would you like to show product listing here?"
+msgstr "Momenteel is er geen pagina ingesteld om de hoofdproductlijst te tonen. Wil je de productvermelding hier weergeven?"
+
+#: theme-product_adder_support.php:239
+msgid "Disabled in simple mode. Add %1$s shortcode to your %2$smain catalog listing page%3$s to enable it."
+msgstr "Uitgeschakeld in eenvoudige modus. Voeg %1$s shortcode toe aan je %2$shoofd cataloguslijstpagina%3$s om deze in te schakelen."
+
+#: includes/settings/csv.php:17
+msgid "Import / Export"
+msgstr "Import / Export"
+
+#: includes/product-category-columns.php:223
+msgid "Word count: %s"
+msgstr "Aantal woorden: %s"
+
+#: includes/product-category-columns.php:172
+#: includes/product-category-columns.php:207
+msgid "The description is not prominent by default; however, some themes may show it."
+msgstr "De beschrijving is standaard niet prominent; sommige thema's kunnen dit echter aantonen."
+
+#: modules/attributes/comparison.php:201
+msgid "Comparison Disabled"
+msgstr "Vergelijking uitgeschakeld"
+
+#: modules/attributes/comparison.php:198
+msgid "Comparison Page"
+msgstr "Vergelijkings pagina"
+
+#: modules/attributes/comparison.php:195
+msgid "Comparison"
+msgstr "Vergelijking"
+
+#: modules/attributes/comparison.php:172
+msgid "Compare %s"
+msgstr "Vergelijk %s"
+
+#: modules/attributes/comparison.php:118
+msgid "Select %s to compare"
+msgstr "Selecteer %s om te vergelijken"
+
+#: modules/attributes/attributes-settings.php:240
+msgid "Disable Size"
+msgstr "Schakel grootte uit"
+
+#: modules/attributes/attributes-settings.php:235
+msgid "Disable Weight"
+msgstr "Schakel gewicht uit"
+
+#: modules/attributes/attributes-settings.php:115
+msgid "Weight Unit"
+msgstr "Gewicht eenheid"
+
+#: modules/attributes/attributes-settings.php:114
+msgid "Size Unit"
+msgstr "Grootte eenheid"
+
+#: modules/attributes/attributes-settings.php:110
+msgid "Standard Attributes"
+msgstr "Standaard kenmerken"
+
+#: modules/attributes/attributes-meta.php:144
+#: modules/attributes/attributes-meta.php:194
+#: modules/attributes/attributes-meta.php:266
+msgctxt "Height"
+msgid "H"
+msgstr "H"
+
+#: modules/attributes/attributes-meta.php:144
+#: modules/attributes/attributes-meta.php:191
+#: modules/attributes/attributes-meta.php:265
+msgctxt "Width"
+msgid "W"
+msgstr "B"
+
+#: modules/attributes/attributes-meta.php:144
+#: modules/attributes/attributes-meta.php:264
+msgctxt "Length"
+msgid "L"
+msgstr "L"
+
+#: modules/attributes/attribute-filters.php:108
+msgid "One size available."
+msgstr "Eén maat beschikbaar."
+
+#: includes/widgets/filter-widgets.php:201
+msgid "Filter items by size."
+msgstr "Filter items op maat."
+
+#: includes/widgets/filter-widgets.php:200
+msgid "Catalog Size Filter"
+msgstr "Catalogus formaat filter"
+
+#: includes/widgets/filter-widgets.php:198
+msgid "Filter %s by size."
+msgstr "Filter %s op maat."
+
+#: includes/widgets/filter-widgets.php:197
+msgid "%s Size Filter"
+msgstr "%s Grootte filter"
+
+#: includes/settings/custom-design.php:189
+msgid "The image on single page will be magnified when pointed with mouse cursor."
+msgstr "De afbeelding op een enkele pagina wordt vergroot als het wordt aangewezen met de muiscursor."
+
+#: includes/customizer.php:90 includes/settings/custom-design.php:189
+msgid "Enable image magnifier"
+msgstr "Schakel afbeelding vergroting in"
+
+#: functions/functions.php:196
+msgid "Set Product ID"
+msgstr "Product-ID instellen"
+
+#: functions/support.php:45
+msgid "Premium Support"
+msgstr "Premium ondersteuning"
+
+#: includes/activation-config.php:306
+msgid "I would like to use %s to:"
+msgstr "Ik zou %s willen gebruiken om:"
+
+#: includes/activation-config.php:302
+msgid "Create Separate Catalog"
+msgstr "Maak afzonderlijke catalogus"
+
+#: includes/activation-config.php:306
+msgid "It looks like you have also %s active. Make a choice below for a correct setup."
+msgstr "Het lijkt erop dat je ook %s actief hebt. Maak hieronder een keuze voor een correcte instelling."
+
+#: includes/activation-config.php:304
+msgid "Modify %s Design"
+msgstr "Wijzig %s ontwerp"
+
+#: includes/class-ic-activation-wizard.php:138
+msgid "Recommended extensions on the list below are highlighted with %s and red border."
+msgstr "Aanbevolen extensies in de onderstaande lijst zijn gemarkeerd met %s en rode rand."
+
+#: includes/class-ic-activation-wizard.php:134
+msgid "Extensions Install Page"
+msgstr "Extensies installatie pagina"
+
+#: includes/class-ic-activation-wizard.php:114
+msgid "free"
+msgstr "gratis"
+
+#: includes/class-ic-activation-wizard.php:109
+msgid "See them below:"
+msgstr "Zie ze hieronder:"
+
+#: includes/class-ic-activation-wizard.php:108
+msgid "You have some recommended extensions based on your initial setup answers!"
+msgstr "Je hebt enkele aanbevolen extensies gebaseerd op je initiële installatie antwoorden!"
+
+#: includes/settings/image-sizes.php:23
+msgid "Please use the %s plugin to apply the size changes to existing images."
+msgstr "Gebruik de %s plugin om de wijzigingen in de grootte toe te passen op bestaande afbeeldingen."
+
+#: includes/extensions.php:974
+msgid "Extension <strong>activated</strong>."
+msgstr "Extentie <strong>geactiveerd</strong>."
+
+#: functions/support.php:74
+msgid "You can also choose one of the %scatalog extensions%s to get the premium support <strong>free of charge</strong>."
+msgstr "Je kunt ook een van de %scatalog-uitbreidingen%s kiezen om de premium-ondersteuning <strong>gratis</strong> te krijgen."
+
+#: functions/support.php:53
+msgid "You will get this <strong>free of charge</strong> if you choose at least one of the premium %sextensions%s."
+msgstr "Je krijgt deze <strong>gratis</strong> als je ten minste een van de premium %sextenties%s kiest."
+
+#: theme-product_adder_support.php:50
+msgid "Getting started guide with step by step instructions"
+msgstr "Aan de slag gids met stap voor stap instructies"
+
+#: includes/activation-config.php:314
+msgid "Examples: Services, Parts, Flowers, Photos"
+msgstr "Voorbeelden: services, onderdelen, bloemen, foto's"
+
+#: includes/activation-config.php:313
+msgid "Examples: Service, Part, Flower, Photo"
+msgstr "Voorbeelden: services, onderdelen, bloemen, foto's"
+
+#: includes/activation-config.php:288
+msgid "Shipping Disabled"
+msgstr "Verzending uitgeschakeld"
+
+#: includes/activation-config.php:286
+msgid "Shipping Enabled"
+msgstr "Verzending ingeschakeld"
+
+#: includes/activation-config.php:296
+msgid "Price Disabled"
+msgstr "Prijs uitgeschakeld"
+
+#: includes/activation-config.php:294
+msgid "Price Enabled"
+msgstr "Prijs ingeschakeld"
+
+#: includes/activation-config.php:169
+msgid "Main Catalog Listing"
+msgstr "Hoofdcataloguslijst"
+
+#: includes/activation-config.php:164
+msgid "Documentation"
+msgstr "Documentatie"
+
+#: includes/activation-config.php:161
+msgid "Make sure to visit the documentation for more tweaks and tricks."
+msgstr "Zorg ervoor dat je de documentatie bezoekt voor meer tips en tricks."
+
+#: includes/activation-config.php:160
+msgid "If you are looking for a customizable product theme the free %sCatalog Me! theme%s is the way to go."
+msgstr "Als je op zoek bent naar een aanpasbaar productthema, dan is de gratis %sCatalog Me! thema%s de juiste keuze."
+
+#: includes/activation-config.php:159
+msgid "If you have any questions or issues feel free to post a %ssupport ticket%s."
+msgstr "Als je vragen of problemen heeft, kun je een %ssupport ticket%s maken."
+
+#: includes/activation-config.php:158
+msgid "Great! It looks like you are good to go with your catalog adventure."
+msgstr "Super goed! Het lijkt erop dat je klaar voor bent om te gaan met je catalogusavontuur."
+
+#: includes/activation-config.php:141
+msgid "Select Main %s Listing Page"
+msgstr "Selecteer de hoofdpagina van %s vermelding"
+
+#: includes/activation-config.php:139
+msgid "Your main %s listing page is not selected. You can use shortcodes to display your products but in most cases it will be more convienient to use the templates."
+msgstr "Je belangrijkste %s lijstpagina is niet geselecteerd. Je kunt shortcodes gebruiken om jouw producten weer te geven, maar in de meeste gevallen is het handiger om de sjablonen te gebruiken."
+
+#: includes/activation-config.php:137
+msgid "Visit Main Listing"
+msgstr "Bezoek hoofd weergave"
+
+#: includes/activation-config.php:135
+msgid "Edit Main Listing"
+msgstr "Past hoofd weergave aan"
+
+#: includes/activation-config.php:133
+msgid "Customize Listing Layout"
+msgstr "Pas weergaveindeling aan"
+
+#: includes/activation-config.php:132
+msgid "Template files will be used to display catalog pages."
+msgstr "Sjabloonbestanden worden gebruikt om cataloguspagina's weer te geven."
+
+#: includes/activation-config.php:131
+msgid "Your main %s listing page is defined."
+msgstr "Je belangrijkste %s lijstpagina is gedefinieerd."
+
+#: includes/activation-config.php:118
+msgid "Customize %s Page Layout"
+msgstr "Pas %s pagina-indeling aan"
+
+#: includes/activation-config.php:116
+msgid "Let's customize your %s page layout."
+msgstr "Laten we je %s pagina-indeling aanpassen."
+
+#: includes/activation-config.php:106
+msgid "This help box will disappear once you add your first product."
+msgstr "Dit hulpvak verdwijnt zodra je je eerste product hebt toegevoegd."
+
+#: includes/activation-config.php:105
+msgid "You can move all the boxes around to better suit your needs."
+msgstr "Je kunt alle vakken verplaatsen om beter aan jouw behoeften te voldoen."
+
+#: includes/activation-config.php:102
+msgid "Price & SKU box"
+msgstr "Prijs & Sku vak"
+
+#: includes/activation-config.php:101
+msgid "Categories box"
+msgstr "Categorieën vak"
+
+#: includes/activation-config.php:100
+msgid "Publish box"
+msgstr "Publiceer vak"
+
+#: includes/activation-config.php:91
+msgid "on the right side"
+msgstr "aan de rechterkant"
+
+#: includes/activation-config.php:99
+msgid "Image box"
+msgstr "Afbeelding vak"
+
+#: includes/activation-config.php:98
+msgid "you can define their number in catalog settings."
+msgstr "je kunt hun nummer definiëren in catalogusinstellingen."
+
+#: includes/activation-config.php:89
+msgid "optional"
+msgstr "optioneel"
+
+#: includes/activation-config.php:98
+msgid "Attributes box"
+msgstr "Eigenschappen box"
+
+#: includes/activation-config.php:97
+msgid "Long Description field"
+msgstr "Lange beschrijvings-veld"
+
+#: includes/activation-config.php:96
+msgid "Short description field"
+msgstr "Korte beschrijvings-veld"
+
+#: includes/activation-config.php:90
+msgid "on the left side"
+msgstr "aan de linkerkant"
+
+#: includes/activation-config.php:95
+msgid "Name field"
+msgstr "Naam veld"
+
+#: includes/activation-config.php:88
+msgid "By default you should see a two column layout here:"
+msgstr "Standaard zie je hier een indeling met twee kolommen:"
+
+#: includes/activation-config.php:87
+msgid "Add your first %s here."
+msgstr "Voeg hier je eerste %s toe."
+
+#: includes/activation-config.php:75
+msgid "You will be able to change your choice later in catalog setting or by reactivating the plugin."
+msgstr "Je kunt jouw keuze later in de catalogusinstelling wijzigen of door de plug-in opnieuw te activeren."
+
+#: includes/activation-config.php:66
+msgid "Import %s"
+msgstr "Importeer %s"
+
+#: includes/activation-config.php:65
+msgid "Add First %s"
+msgstr "Voer eerst %s toe"
+
+#: includes/activation-config.php:62
+msgid "Congratulations! Your're ready to add %s."
+msgstr "Hartelijk gefeliciteerd! Je bent klaar om %s toe te voegen."
+
+#: includes/class-ic-activation-wizard.php:93
+msgid "Continue"
+msgstr "Verder gaan"
+
+#: includes/activation-config.php:36
+msgid "Make a choice below to continue with 1 minute catalog setup."
+msgstr "Maak hieronder een keuze om door te gaan met het instellen van de catalogus van 1 minuut."
+
+#: includes/activation-config.php:34
+msgid "%s is active now!"
+msgstr "%s is nu actief!"
+
+#: theme-product_adder_support.php:80
+msgid "Use the dropdown below to define the template for all catalog pages."
+msgstr "Gebruik de vervolgkeuzelijst hieronder om de sjabloon voor alle cataloguspagina's te definiëren."
+
+#: theme-product_adder_support.php:70
+msgid "Use the permalink option below to define the parent url for all catalog pages."
+msgstr "Gebruik de permalink-optie hieronder om de bovenliggende URL voor alle cataloguspagina's te definiëren."
+
+#: theme-product_adder_support.php:62
+msgid "If you have any problems with your catalog display, please add the %s shortcode to the page content and save."
+msgstr "Als je problemen ondervindt met jouw catalogusweergave, voeg dan de %s shortcode toe aan de pagina-inhoud en sla deze op."
+
+#: theme-product_adder_support.php:59
+msgid "This page is defined as main catalog listing. You can change this in %scatalog settings%s."
+msgstr "Deze pagina is gedefinieerd als hoofdcataloguslijst. Je kunt dit in de %scatalogus-instellingen%s wijzigen."
+
+#: modules/price/config/currencies.php:353
+msgid "Zambian kwacha"
+msgstr "Zambiaanse kwacha"
+
+#: modules/price/config/currencies.php:352
+msgid "South African rand"
+msgstr "Zuid-Afrikaanse rand"
+
+#: modules/price/config/currencies.php:351
+msgid "Yemeni rial"
+msgstr "Jemenitische rial"
+
+#: modules/price/config/currencies.php:350
+msgid "CFP franc"
+msgstr "CFP-frank"
+
+#: modules/price/config/currencies.php:349
+msgid "West African CFA franc"
+msgstr "West-Afrikaanse CFA-frank"
+
+#: modules/price/config/currencies.php:348
+msgid "East Caribbean dollar"
+msgstr "Oost-Caribische dollar"
+
+#: modules/price/config/currencies.php:347
+msgid "Central African CFA franc"
+msgstr "Centraal-Afrikaanse CFA-frank"
+
+#: modules/price/config/currencies.php:346
+msgid "Samoan t&#x101;l&#x101;"
+msgstr "Samoaanse tala"
+
+#: modules/price/config/currencies.php:345
+msgid "Vanuatu vatu"
+msgstr "Vanuatuaanse vatu"
+
+#: modules/price/config/currencies.php:344
+msgid "Vietnamese &#x111;&#x1ed3;ng"
+msgstr "Vietnamese dong"
+
+#: modules/price/config/currencies.php:343
+msgid "Venezuelan bol&iacute;var"
+msgstr "Venezolaanse bolivar"
+
+#: modules/price/config/currencies.php:342
+msgid "Uzbekistani som"
+msgstr "Uzbekistani som"
+
+#: modules/price/config/currencies.php:341
+msgid "Uruguayan peso"
+msgstr "Uruguayaanse peso"
+
+#: modules/price/config/currencies.php:340
+msgid "United States dollar"
+msgstr "Verenigde Staten Dollar"
+
+#: modules/price/config/currencies.php:339
+msgid "Ugandan shilling"
+msgstr "Oegandese shilling"
+
+#: modules/price/config/currencies.php:338
+msgid "Ukrainian hryvnia"
+msgstr "Oekraïense grivna"
+
+#: modules/price/config/currencies.php:337
+msgid "Tanzanian shilling"
+msgstr "Tanzaniaanse shilling"
+
+#: modules/price/config/currencies.php:336
+msgid "New Taiwan dollar"
+msgstr "Nieuwe Taiwanese dollar"
+
+#: modules/price/config/currencies.php:335
+msgid "Trinidad and Tobago dollar"
+msgstr "Trinidad en Tobago dollar"
+
+#: modules/price/config/currencies.php:334
+msgid "Turkish lira"
+msgstr "Turkse lira"
+
+#: modules/price/config/currencies.php:333
+msgid "Tongan pa&#x2bb;anga"
+msgstr "Tongaanse pa'anga"
+
+#: modules/price/config/currencies.php:332
+msgid "Tunisian dinar"
+msgstr "Tunisian dinar"
+
+#: modules/price/config/currencies.php:331
+msgid "Turkmenistan manat"
+msgstr "Turkmenistan manat"
+
+#: modules/price/config/currencies.php:330
+msgid "Tajikistani somoni"
+msgstr "Tajikistani somoni"
+
+#: modules/price/config/currencies.php:329
+msgid "Thai baht"
+msgstr "Thaise baht"
+
+#: modules/price/config/currencies.php:328
+msgid "Swazi lilangeni"
+msgstr "Swazi lilangeni"
+
+#: modules/price/config/currencies.php:327
+msgid "Syrian pound"
+msgstr "Syrian pound"
+
+#: modules/price/config/currencies.php:326
+msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe dobra"
+msgstr "Santomese dobra"
+
+#: modules/price/config/currencies.php:325
+msgid "South Sudanese pound"
+msgstr "Zuid-Sudanese pond"
+
+#: modules/price/config/currencies.php:324
+msgid "Surinamese dollar"
+msgstr "Surinaamse dollar"
+
+#: modules/price/config/currencies.php:323
+msgid "Somali shilling"
+msgstr "Somalische shilling"
+
+#: modules/price/config/currencies.php:322
+msgid "Sierra Leonean leone"
+msgstr "Sierra Leoonse leone"
+
+#: modules/price/config/currencies.php:321
+msgid "Saint Helena pound"
+msgstr "Sint-Helena pond"
+
+#: modules/price/config/currencies.php:320
+msgid "Singapore dollar"
+msgstr "Singapore dollar"
+
+#: modules/price/config/currencies.php:319
+msgid "Swedish krona"
+msgstr "Zweedse kroon"
+
+#: modules/price/config/currencies.php:318
+msgid "Sudanese pound"
+msgstr "Soedanees pond"
+
+#: modules/price/config/currencies.php:317
+msgid "Seychellois rupee"
+msgstr "Seychelse roepie"
+
+#: modules/price/config/currencies.php:316
+msgid "Solomon Islands dollar"
+msgstr "Salomonseilanden dollar"
+
+#: modules/price/config/currencies.php:315
+msgid "Saudi riyal"
+msgstr "Saoedische riyal"
+
+#: modules/price/config/currencies.php:314
+msgid "Rwandan franc"
+msgstr "Rwandese frank"
+
+#: modules/price/config/currencies.php:313
+msgid "Russian ruble"
+msgstr "Russische roebel"
+
+#: modules/price/config/currencies.php:312
+msgid "Serbian dinar"
+msgstr "Servische dinar"
+
+#: modules/price/config/currencies.php:311
+msgid "Romanian leu"
+msgstr "Roemeense leu"
+
+#: modules/price/config/currencies.php:310
+msgid "Qatari riyal"
+msgstr "Qatari riyal"
+
+#: modules/price/config/currencies.php:309
+msgid "Paraguayan guaran&iacute;"
+msgstr "Paraguayaanse Guarani"
+
+#: modules/price/config/currencies.php:308
+msgid "Transnistrian ruble"
+msgstr "Transnistrische roebel"
+
+#: modules/price/config/currencies.php:307
+msgid "Polish z&#x142;oty"
+msgstr "Poolse złoty"
+
+#: modules/price/config/currencies.php:306
+msgid "Pakistani rupee"
+msgstr "Pakistaanse roepie"
+
+#: modules/price/config/currencies.php:305
+msgid "Philippine peso"
+msgstr "Filippijnse peso"
+
+#: modules/price/config/currencies.php:304
+msgid "Papua New Guinean kina"
+msgstr "Papoea-Nieuw-Guinea Kina"
+
+#: modules/price/config/currencies.php:303
+msgid "Peruvian nuevo sol"
+msgstr "Peruvian nuevo sol"
+
+#: modules/price/config/currencies.php:302
+msgid "Panamanian balboa"
+msgstr "Panamese balboa"
+
+#: modules/price/config/currencies.php:301
+msgid "Omani rial"
+msgstr "Omaanse rial"
+
+#: modules/price/config/currencies.php:300
+msgid "New Zealand dollar"
+msgstr "New Zealand dollar"
+
+#: modules/price/config/currencies.php:299
+msgid "Nepalese rupee"
+msgstr "Nepalese roepie"
+
+#: modules/price/config/currencies.php:298
+msgid "Norwegian krone"
+msgstr "Noorse kroon"
+
+#: modules/price/config/currencies.php:297
+msgid "Nicaraguan c&oacute;rdoba"
+msgstr "Nicaraguaanse córdoba"
+
+#: modules/price/config/currencies.php:296
+msgid "Nigerian naira"
+msgstr "Nigerian naira"
+
+#: modules/price/config/currencies.php:295
+msgid "Namibian dollar"
+msgstr "Namibian dollar"
+
+#: modules/price/config/currencies.php:294
+msgid "Mozambican metical"
+msgstr "Mozambikaanse metical"
+
+#: modules/price/config/currencies.php:293
+msgid "Malaysian ringgit"
+msgstr "Maleisische ringgit"
+
+#: modules/price/config/currencies.php:292
+msgid "Mexican peso"
+msgstr "Mexicaanse peso"
+
+#: modules/price/config/currencies.php:291
+msgid "Malawian kwacha"
+msgstr "Kwacha uit Malawi"
+
+#: modules/price/config/currencies.php:290
+msgid "Maldivian rufiyaa"
+msgstr "Maldivische rufiyaa"
+
+#: modules/price/config/currencies.php:289
+msgid "Mauritian rupee"
+msgstr "Mauritiaanse roepie"
+
+#: modules/price/config/currencies.php:288
+msgid "Mauritanian ouguiya"
+msgstr "Mauritiaanse ouguiya"
+
+#: modules/price/config/currencies.php:287
+msgid "Macanese pataca"
+msgstr "Macanese pataca"
+
+#: modules/price/config/currencies.php:286
+msgid "Mongolian t&ouml;gr&ouml;g"
+msgstr "Mongoolse tugrik"
+
+#: modules/price/config/currencies.php:285
+msgid "Burmese kyat"
+msgstr "Birmese kyat"
+
+#: modules/price/config/currencies.php:284
+msgid "Macedonian denar"
+msgstr "Macedonische denar"
+
+#: modules/price/config/currencies.php:283
+msgid "Malagasy ariary"
+msgstr "Malagasi-ariary"
+
+#: modules/price/config/currencies.php:282
+msgid "Moldovan leu"
+msgstr "Moldavische leu"
+
+#: modules/price/config/currencies.php:281
+msgid "Moroccan dirham"
+msgstr "Marokkaanse dirham"
+
+#: modules/price/config/currencies.php:280
+msgid "Libyan dinar"
+msgstr "Libische dinar"
+
+#: modules/price/config/currencies.php:279
+msgid "Lesotho loti"
+msgstr "Lesotho loti"
+
+#: modules/price/config/currencies.php:278
+msgid "Liberian dollar"
+msgstr "Liberiaanse dollar"
+
+#: modules/price/config/currencies.php:277
+msgid "Sri Lankan rupee"
+msgstr "Sri Lankaanse roepie"
+
+#: modules/price/config/currencies.php:276
+msgid "Lebanese pound"
+msgstr "Libanees pond"
+
+#: modules/price/config/currencies.php:275
+msgid "Lao kip"
+msgstr "Lao kip"
+
+#: modules/price/config/currencies.php:274
+msgid "Kazakhstani tenge"
+msgstr "Kazachstaanse tenge"
+
+#: modules/price/config/currencies.php:273
+msgid "Cayman Islands dollar"
+msgstr "Kaaimaneilanden dollar"
+
+#: modules/price/config/currencies.php:272
+msgid "Kuwaiti dinar"
+msgstr "Koeweitse dinar"
+
+#: modules/price/config/currencies.php:271
+msgid "South Korean won"
+msgstr "Zuid-Koreaanse won"
+
+#: modules/price/config/currencies.php:270
+msgid "North Korean won"
+msgstr "Noord-Koreaanse won"
+
+#: modules/price/config/currencies.php:269
+msgid "Comorian franc"
+msgstr "Comorese frank"
+
+#: modules/price/config/currencies.php:268
+msgid "Cambodian riel"
+msgstr "Cambodjaanse riel"
+
+#: modules/price/config/currencies.php:267
+msgid "Kyrgyzstani som"
+msgstr "Kirgizstan Som"
+
+#: modules/price/config/currencies.php:266
+msgid "Kenyan shilling"
+msgstr "Keniaanse shilling"
+
+#: modules/price/config/currencies.php:265
+msgid "Japanese yen"
+msgstr "Japanse Yen"
+
+#: modules/price/config/currencies.php:264
+msgid "Jordanian dinar"
+msgstr "Jordaanse dinar"
+
+#: modules/price/config/currencies.php:263
+msgid "Jamaican dollar"
+msgstr "Jamaicaanse dollar"
+
+#: modules/price/config/currencies.php:262
+msgid "Jersey pound"
+msgstr "Jersey pond"
+
+#: modules/price/config/currencies.php:261
+msgid "Icelandic kr&oacute;na"
+msgstr "IJslandse kroon"
+
+#: modules/price/config/currencies.php:260
+msgid "Iranian toman"
+msgstr "Iraanse toman"
+
+#: modules/price/config/currencies.php:259
+msgid "Iranian rial"
+msgstr "Iraanse rial"
+
+#: modules/price/config/currencies.php:258
+msgid "Iraqi dinar"
+msgstr "Iraakse dinar"
+
+#: modules/price/config/currencies.php:257
+msgid "Indian rupee"
+msgstr "Indiase roepie"
+
+#: modules/price/config/currencies.php:256
+msgid "Manx pound"
+msgstr "Manx pond"
+
+#: modules/price/config/currencies.php:255
+msgid "Israeli new shekel"
+msgstr "Israëlische nieuwe sikkel"
+
+#: modules/price/config/currencies.php:254
+msgid "Indonesian rupiah"
+msgstr "Indonesische rupiah"
+
+#: modules/price/config/currencies.php:253
+msgid "Hungarian forint"
+msgstr "Hongaarse forint"
+
+#: modules/price/config/currencies.php:252
+msgid "Haitian gourde"
+msgstr "Haïtiaanse kalebas"
+
+#: modules/price/config/currencies.php:251
+msgid "Croatian kuna"
+msgstr "Kroatische kuna"
+
+#: modules/price/config/currencies.php:250
+msgid "Honduran lempira"
+msgstr "Hondurese lempira"
+
+#: modules/price/config/currencies.php:249
+msgid "Hong Kong dollar"
+msgstr "Hong Kong dollar"
+
+#: modules/price/config/currencies.php:248
+msgid "Guyanese dollar"
+msgstr "Guyanese dollar"
+
+#: modules/price/config/currencies.php:247
+msgid "Guatemalan quetzal"
+msgstr "Guatemalteekse quetzal"
+
+#: modules/price/config/currencies.php:246
+msgid "Guinean franc"
+msgstr "Guinese frank"
+
+#: modules/price/config/currencies.php:245
+msgid "Gambian dalasi"
+msgstr "Gambiaanse dalasi"
+
+#: modules/price/config/currencies.php:244
+msgid "Gibraltar pound"
+msgstr "Gibraltar pond"
+
+#: modules/price/config/currencies.php:243
+msgid "Ghana cedi"
+msgstr "Ghana cedi"
+
+#: modules/price/config/currencies.php:242
+msgid "Guernsey pound"
+msgstr "Guernsey pond"
+
+#: modules/price/config/currencies.php:241
+msgid "Georgian lari"
+msgstr "Georgische lari"
+
+#: modules/price/config/currencies.php:240
+msgid "Pound sterling"
+msgstr "Pond sterling"
+
+#: modules/price/config/currencies.php:239
+msgid "Falkland Islands pound"
+msgstr "Falkland Eilanden pond"
+
+#: modules/price/config/currencies.php:238
+msgid "Fijian dollar"
+msgstr "Fijische dollar"
+
+#: modules/price/config/currencies.php:237
+msgid "Euro"
+msgstr "Euro"
+
+#: modules/price/config/currencies.php:236
+msgid "Ethiopian birr"
+msgstr "Ethiopische birr"
+
+#: modules/price/config/currencies.php:235
+msgid "Eritrean nakfa"
+msgstr "Eritrese nakfa"
+
+#: modules/price/config/currencies.php:234
+msgid "Egyptian pound"
+msgstr "Egyptische pond"
+
+#: modules/price/config/currencies.php:233
+msgid "Algerian dinar"
+msgstr "Algerijnse dinar"
+
+#: modules/price/config/currencies.php:232
+msgid "Dominican peso"
+msgstr "Dominicaanse peso"
+
+#: modules/price/config/currencies.php:231
+msgid "Danish krone"
+msgstr "Deense kroon"
+
+#: modules/price/config/currencies.php:230
+msgid "Djiboutian franc"
+msgstr "Djiboutiaanse frank"
+
+#: modules/price/config/currencies.php:229
+msgid "Czech koruna"
+msgstr "Tsjechische kroon"
+
+#: modules/price/config/currencies.php:228
+msgid "Cape Verdean escudo"
+msgstr "Kaapverdische escudo"
+
+#: modules/price/config/currencies.php:227
+msgid "Cuban peso"
+msgstr "Cubaanse peso"
+
+#: modules/price/config/currencies.php:226
+msgid "Cuban convertible peso"
+msgstr "Cubaanse converteerbare peso"
+
+#: modules/price/config/currencies.php:225
+msgid "Costa Rican col&oacute;n"
+msgstr "Costa Ricaanse colon"
+
+#: modules/price/config/currencies.php:224
+msgid "Colombian peso"
+msgstr "Colombiaanse peso"
+
+#: modules/price/config/currencies.php:223
+msgid "Chinese yuan"
+msgstr "Chinese Yuan"
+
+#: modules/price/config/currencies.php:222
+msgid "Chilean peso"
+msgstr "Chileense peso"
+
+#: modules/price/config/currencies.php:221
+msgid "Swiss franc"
+msgstr "Zwitserse frank"
+
+#: modules/price/config/currencies.php:220
+msgid "Congolese franc"
+msgstr "Congolese frank"
+
+#: modules/price/config/currencies.php:219
+msgid "Canadian dollar"
+msgstr "Canadese dollar"
+
+#: modules/price/config/currencies.php:218
+msgid "Belize dollar"
+msgstr "Belize dollar"
+
+#: modules/price/config/currencies.php:217
+msgid "Belarusian ruble"
+msgstr "Witrussische roebel"
+
+#: modules/price/config/currencies.php:216
+msgid "Belarusian ruble (old)"
+msgstr "Witrussische roebel (oud)"
+
+#: modules/price/config/currencies.php:215
+msgid "Botswana pula"
+msgstr "Botswana-pula"
+
+#: modules/price/config/currencies.php:214
+msgid "Bhutanese ngultrum"
+msgstr "Bhutanese ngultrum"
+
+#: modules/price/config/currencies.php:213
+msgid "Bitcoin"
+msgstr "Bitcoin"
+
+#: modules/price/config/currencies.php:212
+msgid "Bahamian dollar"
+msgstr "Bahamaanse dollar"
+
+#: modules/price/config/currencies.php:211
+msgid "Brazilian real"
+msgstr "Braziliaanse real"
+
+#: modules/price/config/currencies.php:210
+msgid "Bolivian boliviano"
+msgstr "Boliviaanse boliviano"
+
+#: modules/price/config/currencies.php:209
+msgid "Brunei dollar"
+msgstr "Brunei dollar"
+
+#: modules/price/config/currencies.php:208
+msgid "Bermudian dollar"
+msgstr "Bermuda-dollar"
+
+#: modules/price/config/currencies.php:207
+msgid "Burundian franc"
+msgstr "Burundian franc"
+
+#: modules/price/config/currencies.php:206
+msgid "Bahraini dinar"
+msgstr "Bahreinse dinar"
+
+#: modules/price/config/currencies.php:205
+msgid "Bulgarian lev"
+msgstr "Bulgaarse lev"
+
+#: modules/price/config/currencies.php:204
+msgid "Bangladeshi taka"
+msgstr "Bengalese taka"
+
+#: modules/price/config/currencies.php:203
+msgid "Barbadian dollar"
+msgstr "Barbados dollar"
+
+#: modules/price/config/currencies.php:202
+msgid "Bosnia and Herzegovina convertible mark"
+msgstr "Bosnië en Herzegovina converteerbare mark"
+
+#: modules/price/config/currencies.php:201
+msgid "Azerbaijani manat"
+msgstr "Azerbaijani manat"
+
+#: modules/price/config/currencies.php:200
+msgid "Aruban florin"
+msgstr "Arubaanse gulden"
+
+#: modules/price/config/currencies.php:199
+msgid "Australian dollar"
+msgstr "Australische dollar"
+
+#: modules/price/config/currencies.php:198
+msgid "Argentine peso"
+msgstr "Argentijnse peso"
+
+#: modules/price/config/currencies.php:197
+msgid "Angolan kwanza"
+msgstr "Angolese kwanza"
+
+#: modules/price/config/currencies.php:196
+msgid "Netherlands Antillean guilder"
+msgstr "Nederlandse Antilliaanse gulden"
+
+#: modules/price/config/currencies.php:195
+msgid "Armenian dram"
+msgstr "Armeense dram"
+
+#: modules/price/config/currencies.php:194
+msgid "Albanian lek"
+msgstr "Albanese lek"
+
+#: modules/price/config/currencies.php:193
+msgid "Afghan afghani"
+msgstr "Afghaanse afghani"
+
+#: modules/price/config/currencies.php:192
+msgid "United Arab Emirates dirham"
+msgstr "Verenigde Arabische Emiraten dirham"
+
+#: theme-product_adder_support.php:293
+msgid "See Main Catalog Listing"
+msgstr "Zie hoofdcataloguslijst"
+
+#: theme-product_adder_support.php:252
+msgid "Create Main Catalog Listing"
+msgstr "Creëer hoofdcataloguslijst"
+
+#: theme-product_adder_support.php:224
+msgid "install free %1$s plugin from %2$scatalog extensions menu%3$s"
+msgstr "installeer de gratis %1$s plug-in van %2$s catalogus extensies menu %3$s"
+
+#: theme-product_adder_support.php:224
+msgid "%1$s with %2$s design"
+msgstr "%1$s met %2$s ontwerp"
+
+#: theme-product_adder_support.php:223
+msgid "go to %1$s %3$simport screen%4$s to transfer all %2$s products to %1$s and remove %2$s after that"
+msgstr "ga naar %1$s %3$s importscherm %4$s om alle %2$s producten over te brengen naar %1$s en %2$s daarna te verwijderen"
+
+#: theme-product_adder_support.php:223
+msgid "%1$s as an alternative to %2$s"
+msgstr "%1$s als een alternatief voor %2$s"
+
+#: theme-product_adder_support.php:222
+msgid "doesn't need any specific configuration"
+msgstr "heeft geen specifieke configuratie nodig"
+
+#: theme-product_adder_support.php:222
+msgid "%1$s and %2$s separately for different product catalogs"
+msgstr "%1$s en %2$s afzonderlijk voor verschillende productcatalogi"
+
+#: theme-product_adder_support.php:220
+msgid "See the usage scenarios below:"
+msgstr "Zie de gebruiksscenario's hieronder:"
+
+#: theme-product_adder_support.php:220
+msgid "Hey! It looks like you have %1$s installed. You can use %2$s with or without %1$s."
+msgstr "Hey! Het lijkt erop dat %1$s is geïnstalleerd. je kunt %2$s gebruiken met of zonder %1$s."
+
+#: includes/activation-config.php:163 theme-product_adder_support.php:197
+msgid "Getting Started Guide"
+msgstr "Aan de slag-gids"
+
+#: theme-product_adder_support.php:194
+msgid "Publish Main Catalog Listing"
+msgstr "Hoofdcatalogusvermelding publiceren"
+
+#: theme-product_adder_support.php:192
+msgid "Your main catalog listing page has been created automatically with private status (it is not visible for visitors)."
+msgstr "Je hoofdcataloguslijst is automatisch gemaakt met privéstatus (deze is niet zichtbaar voor bezoekers)."
+
+#: templates/theme-integration.php:87
+msgid "Do it only if the catalog layout doesn't match your theme or if some unwanted elements from the theme are displayed on catalog pages."
+msgstr "Doe het alleen als de lay-out van de catalogus niet overeenkomt met je thema of als sommige ongewenste elementen van het thema worden weergegeven op cataloguspagina's."
+
+#: templates/theme-integration.php:87
+msgid "If something goes wrong you will have to add the %s shortcode to the product listing again."
+msgstr "Als er iets misgaat, moet je de %s shortcode opnieuw toevoegen aan de productvermelding."
+
+#: theme-product_adder_support.php:237
+msgid "Disabled due to a lack of main catalog listing.%s"
+msgstr "Uitgeschakeld vanwege een gebrek aan hoofdcatalogus.%s"
+
+#: functions/activation.php:151
+msgid "To proceed with such test remove the %s shortcode from your main product listing page and see how the catalog pages look like without it."
+msgstr "Als je wilt doorgaan met een dergelijke test, verwijdert je de %s shortcode uit je hoofdpagina met productvermeldingen en je ziet hoe de cataloguspagina's eruit zien zonder deze."
+
+#: functions/activation.php:149
+msgid "Click %shere%s to proceed."
+msgstr "Klik %shier%s om verder te gaan."
+
+#: functions/activation.php:147
+msgid "If the catalog pages are not displayed correctly within your theme layout you can test a different integration method."
+msgstr "Als de cataloguspagina's niet correct worden weergegeven binnen je themalay-out, kun je een andere integratiemethode testen."
+
+#: functions/activation.php:146
+msgid "Currently %s shortcode is being used on main product listing."
+msgstr "Momenteel wordt %s shortcode gebruikt op de hoofdproductlijst."
+
+#: functions/activation.php:137
+msgid "You are currently using %s mode."
+msgstr "Je gebruikt momenteel de %s modus."
+
+#: functions/activation.php:134
+msgid "You can modify the product page and product listing layout by clicking on the admin options links located under the image."
+msgstr "Je kunt de productpagina en de lay-out van de productvermelding aanpassen door te klikken op de koppelingen naar de beheerderopties onder de afbeelding."
+
+#: functions/activation.php:133
+msgid "Product Page Layout"
+msgstr "Product pagina layout"
+
+#: ext-comp/wpseo.php:71
+msgid "Archive"
+msgstr "Archief"
+
+#: theme-product_adder_support.php:279
+msgid "The listing has been added successfully!"
+msgstr "De lijst is succesvol toegevoegd!"
+
+#: theme-product_adder_support.php:184
+msgid "You can create your product listing page automatically or insert [show_product_catalog] shortcode on any of your existing pages."
+msgstr "Je kunt jouw productvermeldingspagina automatisch maken of de shortcode [show_product_catalog] invoegen op een van jouw bestaande pagina's."
+
+#: theme-product_adder_support.php:278
+msgid "See Your Product Listing"
+msgstr "Zie je productvermelding"
+
+#: theme-product_adder_support.php:140
+msgid "Add Shortcode Now"
+msgstr "Voeg shortcode toe"
+
+#: theme-product_adder_support.php:137
+msgid "You can also use awesome %sCatalog Me! theme%s."
+msgstr "Je kan ook de geweldige %sCatalog Me! theme%s gebruiken."
+
+#: theme-product_adder_support.php:136
+msgid "To switch to Advanced Mode please add the [show_product_catalog] shortcode to your product listing page."
+msgstr "Als je wilt overschakelen naar de geavanceerde modus, voeg je de shortcode [show_product_catalog] toe aan de productvermeldingspagina."
+
+#: theme-product_adder_support.php:135
+msgid "You are currently using %s in Simple Mode. It is perfectly fine to use it this way, however some features are limited."
+msgstr "Je gebruikt momenteel %s in de eenvoudige modus. Het is prima om het op deze manier te gebruiken, maar sommige functies zijn beperkt."
+
+#: templates/theme-integration.php:183
+msgid "You are using shortcode mode now."
+msgstr "Je gebruikt nu de shortcode-modus."
+
+#: templates/theme-integration.php:165
+msgid "Use %s shortcode on your product listing page."
+msgstr "Gebruik %s shortcode op je productvermeldingspagina."
+
+#: templates/theme-integration.php:88
+msgid "Remove the Shortcode and Start the Wizard"
+msgstr "Verwijder de shortcode en start de wizard"
+
+#: templates/theme-integration.php:87
+msgid "Would you like to remove the shortcode integration and try the configuration wizard?"
+msgstr "Wil je de shortcode-integratie verwijderen en de configuratiewizard proberen?"
+
+#: templates/theme-integration.php:77
+msgid "Use Shortcode Mode"
+msgstr "Gebruik shortcode-modus"
+
+#: templates/theme-integration.php:65
+msgid "In Shortcode Mode all the catalog features work fine however your theme might display some unwanted elements on catalog pages."
+msgstr "In de Shortcode-modus werken alle catalogusfuncties prima, maar jouw thema kan mogelijk ongewenste elementen op cataloguspagina's weergeven."
+
+#: templates/theme-integration.php:64
+msgid "%s is currently running in Shortcode Mode."
+msgstr "%s wordt momenteel uitgevoerd in de shortcodemodus."
+
+#: templates/shortcode-catalog.php:202
+msgid "Currently %sanother page%s is set to show main product listing. Would you like to show product listing here instead?"
+msgstr "Momenteel is %sanother page%s ingesteld om de hoofdproductlijst te tonen. Wil je de productvermelding hier in plaats tonen?"
+
+#: includes/widgets/category-widget.php:55
+msgid "Show All"
+msgstr "Toon alles"
+
+#: includes/widgets/category-widget.php:49
+msgid "Show All %s"
+msgstr "Toon alles %s"
+
+#: includes/settings/general.php:180 includes/settings/general.php:232
+msgid "If you have any problems with the integration please insert the [show_product_catalog] shortcode on any page to display the catalog."
+msgstr "Als je problemen hebt met de integratie, voeg je de shortcode [show_product_catalog] op een willekeurige pagina in om de catalogus weer te geven."
+
+#: includes/settings/general.php:170
+msgid "If you want to switch to advanced mode easily, please insert the [show_product_catalog] shortcode on your product listing page."
+msgstr "Als je gemakkelijk naar de geavanceerde modus wilt overschakelen, voeg je de shortcode [show_product_catalog] op jouw productvermeldingspagina in."
+
+#: includes/settings/general.php:142
+msgid "Remove the Shortcode and Start Visual Wizard"
+msgstr "Verwijder de Shortcode en start Visual Wizard"
+
+#: includes/settings/general.php:141
+msgid "If you have any problems with catalog layout you can remove the shortcode and use the theme integration wizard to fix it."
+msgstr "Als je problemen hebt met de lay-out van de catalogus, kun je de shortcode verwijderen en de thema-integratiewizard gebruiken om het te repareren."
+
+#: includes/settings/general.php:141
+msgid "You are currently using [show_product_catalog] on your product listing to integrate the catalog with the theme."
+msgstr "Je gebruikt momenteel [show_product_catalog] op jouw productvermelding om de catalogus met het thema te integreren."
+
+#: ext-comp/wpseo.php:71
+msgid "Archives"
+msgstr "Archief"
+
+#: includes/customizer.php:214 includes/customizer.php:235
+msgid "%s Label"
+msgstr "%s Label"
+
+#: includes/customizer.php:144
+msgid "Product Listing Template"
+msgstr "Productlijst template"
+
+#: functions/catalog-admin.php:66
+msgid "Customize Listing Design"
+msgstr "Aanpassen weergave ontwerp"
+
+#: functions/catalog-admin.php:59
+msgid "Customize Page Design"
+msgstr "Aanpassen pagina ontwerp"
+
+#: functions/catalog-admin.php:47
+msgid "Admin Options"
+msgstr "Admin opties"
+
+#: functions/activation.php:181
+msgid "Start Automatic Theme Integration"
+msgstr "Start automatische thema-integratie"
+
+#: templates/theme-integration.php:93
+msgid "Video Tutorial"
+msgstr "Videohandeiding"
+
+#: includes/tracking.php:376
+msgid "What we could do better?"
+msgstr "Wat kunnen we beter doen?"
+
+#: includes/settings/csv.php:386
+msgid "%s successfully imported!"
+msgstr "%s is geïmporteerd"
+
+#: includes/settings/csv.php:365
+msgid "Import"
+msgstr "Import"
+
+#: includes/settings/csv.php:360
+msgid "Import from other content"
+msgstr "Importeren van andere inhoud"
+
+#: includes/tracking.php:382
+msgid "What is the reason?"
+msgstr "Wat is de reden?"
+
+#: includes/tracking.php:382
+msgid "Other"
+msgstr "Ander"
+
+#: includes/tracking.php:381
+msgid "What did you expect?"
+msgstr "Wat had je verwacht?"
+
+#: includes/tracking.php:381
+msgid "The plugin didn't work as expected"
+msgstr "De plugin werkt niet zoals verwacht"
+
+#: includes/tracking.php:380
+msgid "What you've been looking for?"
+msgstr "Naar wat heb je gezocht?"
+
+#: includes/tracking.php:380
+msgid "It's not what I was looking for"
+msgstr "Het is niet wat ik zocht"
+
+#: includes/tracking.php:379
+msgid "Kindly share what didn't work so we can fix it for future users..."
+msgstr "Deel graag wat niet werkte, zodat we het voor toekomstige gebruikers kunnen oplossen..."
+
+#: includes/tracking.php:379
+msgid "The plugin is not working"
+msgstr "De plugin werkt niet"
+
+#: includes/tracking.php:378
+msgid "What feature?"
+msgstr "Welke functies?"
+
+#: includes/tracking.php:378
+msgid "The plugin is great, but I need specific feature that you don't support"
+msgstr "De plugin is geweldig, maar ik heb specifieke functie nodig die je niet ondersteunt"
+
+#: includes/tracking.php:377
+msgid "What's the plugin's name?"
+msgstr "Wat is de naam van de plugin?"
+
+#: includes/tracking.php:377
+msgid "I found a better plugin"
+msgstr "Ik heb een betere plugin gevonden"
+
+#: includes/tracking.php:376
+msgid "I couldn't understand how to make it work"
+msgstr "Ik begreep niet hoe ik het kon laten werken"
+
+#: includes/tracking.php:366
+msgid "Submit & Deactivate"
+msgstr "Verzenden & deactiveren"
+
+#: includes/tracking.php:365
+msgid "Please choose a reason..."
+msgstr "Kies een reden..."
+
+#: includes/tracking.php:358
+msgid "If you have a moment, please let us know why you are deactivating"
+msgstr "Als je even een moment hebt, laat ons weten waarom je deactiveert"
+
+#: includes/tracking.php:327
+msgid "Processing..."
+msgstr "Verwerken..."
+
+#: includes/tracking.php:293
+msgid "Do not allow"
+msgstr "Niet toestaan"
+
+#: includes/tracking.php:292
+msgid "Allow"
+msgstr "Toestaan"
+
+#: includes/tracking.php:291
+msgid "Allow %s to track plugin usage? Opt-in to tracking to help in plugin development. No sensitive data is tracked."
+msgstr "Laat %s toe om plugingebruik te volgen? Opt-in om te volgen om te helpen bij de plugin-ontwikkeling. Er worden geen gevoelige gegevens gevolgd."
+
+#: includes/tracking.php:207
+msgid "Send anonymous statistics"
+msgstr "Anonieme statistieken verzenden"
+
+#: includes/cron.php:43
+msgid "Once Weekly"
+msgstr "Eenmaal per week"
+
+#: includes/widgets/filter-widgets.php:119
+#: includes/widgets/filter-widgets.php:175
+#: includes/widgets/filter-widgets.php:241
+#: modules/price/widgets/price-filter-widget.php:68
+msgid "Enable also for shortcodes"
+msgstr "Ook inschakelen voor shortcodes"
+
+#: includes/settings/general.php:263
+msgid "Disable and use %s shortcode to display the products."
+msgstr "Deactiveer en gebruik %s shortcode om de producten weer te geven."
+
+#: includes/settings/general.php:163
+msgid "Choose Advanced Mode if you want to display catalog categories and search with %s layout."
+msgstr "Kies Geavanceerde modus als je cataloguscategorieën wilt weergeven en zoek met %s ontwerp."
+
+#: functions/support.php:46
+msgid "<b>One year</b> of high quality and speedy %sPremium Support%s from impleCode team for just %s"
+msgstr "<b>Eén jaar</b> van hoge kwaliteit en snelle e-mail %sPremium ondersteuning%s van ImpleCode support team voor enkel %s"
+
+#: theme-product_adder_support.php:181
+msgid "Thank you for choosing %1$s! If you have any questions or issues feel free to %2$spost a support ticket%3$s."
+msgstr "Bedankt voor het kiezen van %1$s! Als je vragen of problemen hebt, kunt je %2$seen support ticket versturen%3$s."
+
+#: templates/theme-integration.php:174
+msgid "If you are a developer or would like to have full control on the product pages templates make sure to see the %stemplates docs%s."
+msgstr "Als je een ontwikkelaar bent of wilt je volledige controle op de templates van de productpagina's, zorg er dan voor dat je de %stemplates docs%s leest."
+
+#: templates/theme-integration.php:101
+msgid "Increase this number to make a space also on the top and bottom of the container. This is useful also if you are planning to enable the sidebar in next step."
+msgstr "Verhoog dit nummer om ook een ruimte aan de boven- en onderkant van het vak te maken. Dit is ook handig als je de sidebar in de volgende stap wilt inschakelen."
+
+#: templates/theme-integration.php:98
+msgid "In most cases you should decrease this number to match your template container size."
+msgstr "In de meeste gevallen moet je dit nummer verlagen zodat deze overeenkomt met de grootte van je template-container."
+
+#: templates/theme-integration.php:97
+msgid "%1$sDecrease width%2$s to change the product page horizontal size, %1$sincrease padding%2$s to generate space around the content and %1$sset background & text colors%2$s to match your theme style"
+msgstr "%1$sVerminder breedte%2$s om de productpagina horizontale grootte te veranderen,%1$sverhogen vulling%2$s om ruimte te creëren rond de inhoud en %1$sstel achtergrond en tekstkleuren%2$s in om je thema-stijl aan te passen"
+
+#: templates/theme-integration.php:50
+msgid "Catalog Configuration"
+msgstr "Catalogusconfiguratie"
+
+#: modules/price/price-settings.php:83
+msgid "If you choose custom currency symbol, it will override Your Currency setting and let you use any currency."
+msgstr "Als je een aangepaste valutasymbool kiest, zal deze je huidige valuta-instelling overschrijven en kun je elke valuta gebruiken."
+
+#: modules/price/price-settings.php:79
+msgid "Select a currency from the list. If your currency is not available in the list, please use the Custom Currency Symbol option below."
+msgstr "Selecteer een valuta uit de lijst. Als je valuta niet beschikbaar is in de lijst, gebruik dan de optie voor de optie voor aangepaste valuta hieronder."
+
+#: modules/price/price-settings.php:75
+msgid "Whether to enable or disable price functionality for the catalog."
+msgstr "Of je de prijsfunctie voor de catalogus wilt inschakelen of uitschakelen."
+
+#: includes/settings/general.php:344
+msgid "The title for main product listing in breadcrumbs."
+msgstr "De titel voor hoofd product weergave in broodkruimels."
+
+#: includes/settings/general.php:343
+msgid "Shows a path to the currently displayed product catalog page with URLs to parent pages and correct schema markup for SEO."
+msgstr "Toont een pad naar de huidige weergegeven productcataloguspagina met URL's naar hoofdpagina's en correcte schema-opmaak voor SEO."
+
+#: includes/settings/general.php:323
+msgid "Title tag for selected product listing page. If you are using separate SEO plugin you should set it there. E.g. in Yoast SEO look for it in Custom Post Types archive titles section."
+msgstr "Titel-steekwoord voor geselecteerde productlijst pagina. Als je een aparte SEO-plugin gebruikt, moet je het daar plaatsen. Bijv. In Yoast SEO zoek er naar in de sectie van het archieftitels van de Aangepaste Posttypes."
+
+#: includes/settings/general.php:304
+msgid "The related products or categories will be shown on the bottom of product pages."
+msgstr "De bijbehorende producten of categorieën worden weergegeven onderaan productpagina's."
+
+#: includes/settings/general.php:303
+msgid "If you disable the image it will be only used for categories listing."
+msgstr "Als je de afbeelding uitschakelt, wordt deze alleen gebruikt voor de vermelding van categorieën."
+
+#: includes/settings/general.php:302
+msgid "Template option will display categories with the same listing theme as products. Link option will show categories as simple URLs without image."
+msgstr "Met thema opties worden categorieën weergegeven met de zelfde weergave als producten. Link optie geeft categorieën als eenvoudige links zonder foto's."
+
+#: includes/settings/general.php:301
+msgid "The main listing can show only products, top level categories and products or only the categories. With the third option selected the products will show only on the bottom level category pages."
+msgstr "De hoofdvermelding kan alleen producten, categorieën en producten van het hoogste niveau of alleen de categorieën weergeven. Met de derde optie geselecteerd, worden de producten alleen weergegeven op de pagina's van het onderste niveau."
+
+#: includes/settings/general.php:145 includes/settings/general.php:218
+msgid "Advanced Mode Visual Wizard"
+msgstr "Geavanceerde modus visuele wizard"
+
+#: includes/settings/general.php:179
+msgid "If you have access to the server files you can also use our %sTheme Integration Guide%s to achieve it quickly."
+msgstr "Als je toegang hebt tot de serverbestanden, kunt je ook onze %sThema integratiegids%s gebruiken om het snel te bereiken."
+
+#: includes/settings/general.php:178
+msgid "Use the button below to begin the easy auto adjustment."
+msgstr "Gebruik de onderstaande knop om de makkelijke automatische aanpassing te starten."
+
+#: includes/settings/general.php:177
+msgid "In Advanced Mode %s must figure out your theme markup to display products properly."
+msgstr "In de geavanceerde modus moet %s je thema-opmaak achterhalen om producten correct weer te geven."
+
+#: includes/settings/general.php:161
+msgid "Advanced Mode"
+msgstr "Geavanceerde modus"
+
+#: includes/settings/general.php:160
+msgid "Simple Mode"
+msgstr "Eenvoudige modus"
+
+#: includes/settings/general.php:169
+msgid "Simple mode will use your theme layout so it can show some unwanted elements on product catalog pages."
+msgstr "In de eenvoudige modus wordt je thema-indeling gebruikt, hierdoor kunnen enkele ongewenste elementen op productcatalogus pagina's worden weergegeven."
+
+#: includes/settings/general.php:168
+msgid "In simple mode you will have to use shortcodes to display category pages. The advanced mode will display them for you automatically."
+msgstr "In eenvoudige modus moet je shortcodes gebruiken om categoriepagina's weer te geven. De geavanceerde modus zal ze automatisch voor je tonen."
+
+#: includes/customizer.php:77 includes/settings/custom-design.php:188
+msgid "Enable lightbox gallery"
+msgstr "Activeer lightbox galerij"
+
+#: includes/customizer.php:191
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: includes/customizer.php:273
+msgid "Please adjust these settings on a product listing to see any effect."
+msgstr "Pas deze instellingen aan op een productoverzicht om een effect te zien."
+
+#: includes/customizer.php:270
+msgid "Product Listing Style"
+msgstr "Productoverzicht stijl"
+
+#: includes/customizer.php:267
+msgid "Please adjust these settings on a product page to see any effect."
+msgstr "Pas deze instellingen aan op een productpagina om een effect te zien."
+
+#: includes/customizer.php:264
+msgid "Product Page Style"
+msgstr "Productpagina stijl"
+
+#: includes/customizer.php:257
+msgid "Go to catalog page that you want to style so you can see the effect immediately."
+msgstr "Ga naar de cataloguspagina die je wilt stijlen zodat je het effect direct kunt zien."
+
+#: functions/activation.php:117
+msgid "Please read this page carefully to fully understand all product page elements."
+msgstr "Lees deze pagina zorgvuldig door om alle productpagina-elementen volledig te begrijpen."
+
+#: functions/activation.php:116
+msgid "You can change the product page template in catalog settings."
+msgstr "Je kunt het productpagina ontwerp wijzigen in catalogusinstellingen."
+
+#: functions/activation.php:115
+msgid "Welcome on product test page. This is short description. It should show up on the left (for plain product page template) or right (for Formatted product page template) of the product image and below product name."
+msgstr "Welkom op de producttest pagina. Dit is een korte beschrijving. Het zou aan de linkerkant moeten verschijnen (voor het standaard productpagina template) of rechts (voor het geformatteerde productpagina template) van de productafbeelding en onder de productnaam."
+
+#. Plugin Name of the plugin/theme
+msgid "eCommerce Product Catalog for WordPress"
+msgstr "eCommerce Product Catalog voor WordPress"
+
+#: theme-product_adder_support.php:185
+msgid "If you are looking for a great customizable product theme we recommend free %sCatalog Me! theme%s."
+msgstr "Als je op zoek bent naar een geweldig aanpasbare product thema, raden wij de gratis %sCatalog Me! thema%s aan."
+
+#: theme-product_adder_support.php:182
+msgid "%s requires initial configuration in order to work properly &#8211; please click the Initial Configuration button to proceed."
+msgstr "%s vereist de eerste configuratie om goed te kunnen werken &#8211; klik op de knop Eerste configuratie om verder te gaan."
+
+#: includes/system.php:40
+msgid "All Catalog Products successfully deleted!"
+msgstr "Alle catalogusproducten zijn verwijderd."
+
+#: includes/settings/csv.php:143
+msgid "Please make sure that only the expected columns exist in the import file and the correct CSV separator is set."
+msgstr "Zorg ervoor dat enkel de verwachte kolommen bestaan in het importbestand, en het correcte CSV-scheidingsteken is ingesteld."
+
+#: includes/settings/csv.php:142
+msgid "Columns expected in file: %s"
+msgstr "Verwachte kolommen in het bestand: %s"
+
+#: includes/settings/csv.php:87
+msgid "Comma"
+msgstr "Komma"
+
+#: includes/settings/csv.php:85
+msgid "Semicolon"
+msgstr "Puntkomma"
+
+#: includes/settings/csv.php:141
+msgid "Columns included in file: %s"
+msgstr "Kolommen opgenomen in het bestand: %s"
+
+#: includes/customizer.php:178 templates/theme-integration.php:100
+msgid "Text Color"
+msgstr "Tekstkleur"
+
+#: templates/theme-integration.php:91
+msgid "Click start to proceed with layout adjustment."
+msgstr "Klik op start om door te gaan met de lay-out aanpassing"
+
+#: includes/settings/general.php:144
+msgid "If you have any problems with catalog layout you can use the theme integration wizard to fix it."
+msgstr "Als je problemen hebt met de catalogus layout, kun je gebruik maken van de thema integratie-wizard om het te verhelpen."
+
+#: templates/theme-integration.php:156
+msgid "Next"
+msgstr "Volgende"
+
+#: templates/theme-integration.php:154 templates/theme-integration.php:156
+msgid "Go Back"
+msgstr "Vorige"
+
+#: templates/theme-integration.php:116
+msgid "Disable unnecessary product page elements"
+msgstr "Schakel onnodige productpagina-elementen uit"
+
+#: templates/theme-integration.php:109
+msgid "If the sidebar is to close to the content you can go back and adjust the padding."
+msgstr "Als de sidebar te dicht bij de inhoud ligt, kun je teruggaan en de vulling aanpassen."
+
+#: templates/theme-integration.php:106
+msgid "Select the sidebar side to enable it on your product pages."
+msgstr "Selecteer de sidebar om er gebruik van te maken voor je productpagina's."
+
+#: templates/theme-integration.php:93
+msgid "Start"
+msgstr "Start"
+
+#: templates/theme-integration.php:90
+msgid "Don't worry if it looks messy."
+msgstr "Maak je geen zorgen als het er slordig uitziet."
+
+#: functions/capabilities.php:83
+msgid "Catalog Manager"
+msgstr "Catalogus manager"
+
+#: includes/settings/csv.php:130
+msgid "%s failures occurred. Please check if the file is UTF-8 encoded"
+msgstr "%s fouten optreden. Controleer of het bestand UTF-8 is gecodeerd"
+
+#: includes/extensions.php:926
+msgid "Add free & premium features %shere%s."
+msgstr "Voeg gratis & premium functies %shier%s toe."
+
+#: templates/theme-integration.php:173
+msgid "Congratulations! %s is working on Advanced Mode now. You can go to admin and add the products to the catalog."
+msgstr "Hartelijk gefeliciteerd! %s werkt nu in de geavanceerde modus. Je kunt naar administratie gaan en de producten toevoegen aan de catalogus."
+
+#: templates/theme-integration.php:67
+msgid "%s is currently running in Simple Mode."
+msgstr "%s draait momenteel in de eenvoudige modus."
+
+#: modules/shipping/shipping-settings.php:75
+msgid "You can change these default values for every new item in the catalog."
+msgstr "Je kunt deze standaardwaarden voor elk item wijzigen. "
+
+#: modules/shipping/shipping-settings.php:66
+msgid "Shipping options"
+msgstr "Verzendopties"
+
+#: modules/attributes/attributes-settings.php:73
+msgid "You can change these default values for every item."
+msgstr "Je kunt deze standaardwaarden voor elk item wijzigen."
+
+#: modules/attributes/attributes-settings.php:65
+msgid "Number of attributes"
+msgstr "Aantal eigenschappen"
+
+#: modules/attributes/attributes-settings.php:62
+msgid "Attributes options"
+msgstr "Eigenschapopties"
+
+#: includes/system.php:344
+msgid "%s Support"
+msgstr "%s ondersteuning"
+
+#: includes/system.php:148
+msgid "%s Database Version"
+msgstr "%s Database versie"
+
+#: includes/system.php:136
+msgid "%s Version"
+msgstr "%s versie"
+
+#: includes/system.php:100
+msgid "Delete all Catalog Categories"
+msgstr "Verwijder alle cataloguscategorieën"
+
+#: includes/system.php:99
+msgid "Delete all categories"
+msgstr "Verwijder alle categorieën"
+
+#: includes/system.php:96
+msgid "Delete all Catalog Items"
+msgstr "Verwijder alle catalogusartikelen"
+
+#: includes/system.php:95
+msgid "Delete all items"
+msgstr "Verwijder alle artikelen"
+
+#: includes/system.php:92
+msgid "Reset Catalog Settings"
+msgstr "Reset Catalogusinstellingen"
+
+#: includes/settings/settings-functions.php:366
+msgid "item"
+msgstr "item"
+
+#: includes/settings/settings-functions.php:364
+msgid "items"
+msgstr "items"
+
+#: includes/settings/image-sizes.php:37
+msgid "Catalog Category Page Image"
+msgstr "Catalogus categoriepagina afbeelding"
+
+#: includes/settings/image-sizes.php:28
+msgid "Catalog Single Page Image"
+msgstr "Catalogus enkelvoudige pagina afbeelding"
+
+#: includes/settings/general.php:481
+msgid "Sort by Name"
+msgstr "Sorteren op naam"
+
+#: includes/settings/general.php:344
+msgid "Main listing breadcrumbs title"
+msgstr "Hoofdweergave broodkruimel titel"
+
+#: includes/settings/general.php:343
+msgid "Enable Catalog Breadcrumbs"
+msgstr "Catalogus broodkruimels inschakelen"
+
+#: includes/settings/general.php:267
+msgid "Default order"
+msgstr "Standaard volgorde"
+
+#: includes/settings/general.php:265
+msgid "Main listing shows"
+msgstr "Hoofdlijst toont"
+
+#: includes/settings/general.php:264
+msgid "Listing shows at most"
+msgstr "Weergave toont uiterlijk"
+
+#: includes/settings/general.php:263
+msgid "Enable Main Listing Page"
+msgstr "Activeer hoofdlijst pagina"
+
+#: includes/settings/general.php:248
+msgid "Main listing page"
+msgstr "Hoofdlijst pagina"
+
+#: includes/settings/custom-names.php:167
+msgid "Main Listing Title"
+msgstr "Hoofdlijst titel"
+
+#: includes/settings/custom-names.php:161
+msgid "Listing Pages Labels"
+msgstr "Weergavepagina's labels"
+
+#: includes/settings/custom-names.php:119
+msgid "Single Item Page Labels"
+msgstr "Enkele objectpagina labels"
+
+#: includes/settings/custom-names.php:104
+msgid "Listing Pages"
+msgstr "Lijst pagina's"
+
+#: includes/settings/custom-names.php:103
+msgid "Single Item Page"
+msgstr "Enkelvoudige item pagina"
+
+#: includes/product-category-columns.php:167
+#: includes/product-category-columns.php:201
+#: includes/settings/custom-names.php:38
+msgid "Description"
+msgstr "Omschrijving"
+
+#: includes/settings/custom-names.php:36
+msgid "<< return to listing"
+msgstr "<< Terug naar de lijst"
+
+#: includes/settings/custom-names.php:34
+msgid "Features"
+msgstr "Functies"
+
+#: includes/settings/custom-names.php:31
+msgid "Price:"
+msgstr "Prijs:"
+
+#: includes/settings/custom-design.php:194
+msgid "Single Page Template"
+msgstr "Enkele pagina template"
+
+#: includes/customizer.php:103 includes/settings/custom-design.php:190
+msgid "Enable image only when inserted"
+msgstr "Activeer afbeelding enkel wanneer ingevoerd"
+
+#: includes/customizer.php:63 includes/settings/custom-design.php:187
+msgid "Enable image"
+msgstr "Activeer afbeelding"
+
+#: includes/settings/custom-design.php:43
+msgid "Single Page Design"
+msgstr "Enkelvoudig pagina ontwerp"
+
+#: includes/settings/custom-design.php:42
+#: includes/settings/custom-design.php:95
+msgid "Listing Design"
+msgstr "Weergave ontwerp"
+
+#: includes/settings/csv.php:82
+msgid "Import Now"
+msgstr "Importeer nu"
+
+#: includes/settings/csv.php:45
+msgid "Simple Import"
+msgstr "Eenvoudige import"
+
+#: includes/settings/csv.php:44
+msgid "Export all items to CSV file"
+msgstr "Exporteer alle items naar CSV-bestand"
+
+#: includes/settings/csv.php:36
+msgid "Simple Export"
+msgstr "Simpele export"
+
+#: includes/register-product.php:111
+msgid "Remove main image"
+msgstr "Verwijder hoofdafbeelding"
+
+#: includes/register-product.php:110
+msgid "Set main image"
+msgstr "Stel hoofdafbeelding in"
+
+#: includes/register-product.php:95
+msgid "Remove main %s image"
+msgstr "Verwijder %s hoofdafbeelding"
+
+#: includes/register-product.php:94
+msgid "Set main %s image"
+msgstr "Stel %s hoofdafbeelding in "
+
+#: includes/product-settings.php:244
+msgid "Feel free to submit a ticket if you think that you found a bug or you have a problem while using %s."
+msgstr "Voel je vrij om een ticket in te dienen als je denkt dat je een fout hebt gevonden of dat je een probleem hebt tijdens het gebruik van %s."
+
+#: includes/extensions.php:679
+msgid "This extension is not available at this time. Try again later."
+msgstr "Deze extensie is momenteel niet beschikbaar. Probeer het later nogmaals."
+
+#: includes/extensions.php:555
+msgid "Price Required"
+msgstr "Prijs verplicht"
+
+#: functions/support.php:78
+msgid "<b>%4$s</b> documentation is being developed <a href=\"%1$s\">here</a>. For questions about %4$s please use <a href=\"%2$s\">support forum</a> or <a href=\"%3$s\">Premium Support service</a>."
+msgstr "<b>%4$s</b> documentatie wordt ontwikkeld <a href=\"%1$s\">hier</a>. Voor vragen over %4$s kun je het  <a href=\"%2$s\">ondersteuningsforum</a> gebruiken of  de <a href=\"%3$s\">premium ondersteuning service</a>."
+
+#: functions/support.php:77
+msgid "%s documentation"
+msgstr "%s documentatie"
+
+#: functions/support.php:39
+msgid "<b>%s is free to use</b>. That's great! It's a pleasure to serve it to you. Let's keep it free forever!"
+msgstr "<b>%s is gratis te gebruiken</b>. Dat is geweldig. Het is een genoegen om het voor je aan te bieden. Laten we het voor altijd gratis houden."
+
+#: includes/settings/general.php:304
+msgid "Nothing"
+msgstr "Niets"
+
+#: includes/settings/custom-design.php:108
+#: includes/settings/custom-design.php:137
+msgid "categories"
+msgstr "categorieën"
+
+#: includes/extensions.php:477
+msgid "Fully compatible plugins from our partners"
+msgstr "Volledig compatibele plugins van onze partners"
+
+#: includes/settings/custom-names.php:173
+msgid "Previous Page"
+msgstr "Vorige pagina"
+
+#: includes/settings/custom-names.php:172
+msgid "Next Page"
+msgstr "Volgende pagina"
+
+#: includes/product-settings.php:246
+msgid "Click the button to visit support forum."
+msgstr "Klik op de knop om het support forum te bezoeken."
+
+#: includes/product-settings.php:245
+msgid "Report a Problem"
+msgstr "Meld een Probleem"
+
+#: includes/product-settings.php:243
+msgid "All bug reports and support tickets are tracked on a daily basis."
+msgstr "Alle bug reports en support tickets worden dagelijks gemonitord."
+
+#: includes/product-settings.php:242
+msgid "Do you have a problem?"
+msgstr "Heb je een probleem?"
+
+#: functions/catalog-admin.php:30
+msgid "Edit Product Listing"
+msgstr "Bewerk productlijst"
+
+#: functions/catalog-admin.php:28
+msgid "Edit %s Listing"
+msgstr "Bewerk %s lijst"
+
+#: functions/functions.php:1057
+msgid "Reset Filters"
+msgstr "Filters resetten"
+
+#: modules/price/price-settings.php:59
+msgid "After Price Text"
+msgstr "Tekst na Prijs"
+
+#: modules/attributes/attributes-settings.php:82
+msgid "Unit"
+msgstr "Eenheid"
+
+#: modules/attributes/attributes-settings.php:81
+msgid "Attribute value"
+msgstr "Attribuutwaarde"
+
+#: modules/attributes/attributes-settings.php:79
+msgid "Attribute name"
+msgstr "Attribuutnaam"
+
+#: functions/duplicate.php:100
+msgid "%1$s successfully duplicated! You can edit your new %2$s %3$s."
+msgstr "%1$s succesvol gedupliceerd. Je kunt nu je nieuwe %2$s %3$s bewerken."
+
+#: functions/duplicate.php:99
+msgid "here"
+msgstr "hier"
+
+#: functions/duplicate.php:79
+msgid "Duplicate"
+msgstr "Dupliceren"
+
+#: includes/settings/custom-names.php:124
+msgid "Description Label"
+msgstr "Omschrijvingslabel"
+
+#: includes/settings/custom-names.php:55
+msgid "All %s"
+msgstr "Alle %s"
+
+#: includes/settings/custom-names.php:26
+msgid "%s Description"
+msgstr "Omschrijving %s"
+
+#: includes/settings/custom-names.php:24
+msgid "<< return to %s"
+msgstr "<< terug naar %s"
+
+#: includes/settings/custom-names.php:22
+msgid "%s Features"
+msgstr "%s Eigenschappen"
+
+#: includes/settings/custom-names.php:19
+msgid "%s Price"
+msgstr "%s Prijs"
+
+#: includes/customizer.php:37 includes/settings/custom-design.php:197
+msgid "Plain"
+msgstr "Standaard"
+
+#: includes/customizer.php:37 includes/settings/custom-design.php:197
+msgid "Formatted"
+msgstr "Opgemaakt"
+
+#: includes/customizer.php:33 includes/settings/custom-design.php:197
+msgid "Select template"
+msgstr "Selecteer template"
+
+#: functions/functions.php:990
+msgid "Sort by Relevance"
+msgstr "Sorteer op relevantie"
+
+#: includes/settings/custom-names.php:174
+msgid "Breadcrumbs Home Label"
+msgstr "Broodkruimel Home Label"
+
+#: modules/price/price-settings.php:58
+msgid "Free Product Text"
+msgstr "Gratis producttekst"
+
+#: includes/settings/custom-names.php:25 includes/settings/custom-names.php:37
+msgid "Free"
+msgstr "Gratis"
+
+#: includes/settings/image-sizes.php:64 includes/settings/image-sizes.php:65
+msgid "Classic List Image"
+msgstr "Klassieke Lijst Afbeelding"
+
+#: includes/settings/image-sizes.php:55 includes/settings/image-sizes.php:56
+msgid "Classic Grid Image"
+msgstr "Klassieke Grid Afbeelding"
+
+#: includes/settings/image-sizes.php:46
+msgid "Modern Grid Image"
+msgstr "Moderne Grid Afbeelding"
+
+#: includes/settings/image-sizes.php:32 includes/settings/image-sizes.php:41
+#: includes/settings/image-sizes.php:50 includes/settings/image-sizes.php:59
+#: includes/settings/image-sizes.php:68 includes/settings/image-sizes.php:147
+msgid "Max Height"
+msgstr "Maximale hoogte"
+
+#: includes/settings/image-sizes.php:30 includes/settings/image-sizes.php:39
+#: includes/settings/image-sizes.php:48 includes/settings/image-sizes.php:57
+#: includes/settings/image-sizes.php:66 includes/settings/image-sizes.php:145
+msgid "Max Width"
+msgstr "Maximale breedte"
+
+#: includes/settings/image-sizes.php:18
+msgid "Product Catalog Images"
+msgstr "Afbeeldingen productcatalogus"
+
+#: includes/settings/general.php:282
+msgid "It seems that this categories parent URL is already set to be a parent for different elements. Please change the Categories Parent URL to make sure that product category pages work fine.<br><br>This is probably caused by other plugin being set to show categoires with the same parent."
+msgstr "Het lijkt erop dat deze url voor categorie reeds in gebruikt is voor andere items, verander de categorie-url om de productpagina te laten werken.<br><br>Dit wordt waarschijnlijk veroorzaakt door een andere plugin, die gekoppeld is om de categorie te laten zien."
+
+#: includes/settings/general.php:253
+msgid "It seems that this page is already set to be a listing for different elements. Please change the product listing page to make sure that product pages work fine.<br><br>This is probably caused by other plugin being set to show items on the same page."
+msgstr "Het lijkt erop dat deze pagina al gekoppeld is door een ander onderdeel of lijst. Verander de product pagina, om zeker te zijn dat de pagina werkt.<br><br>Dit komt waarschijnlijk door een andere plugin die gekoppeld is aan de producten van die pagina."
+
+#: modules/attributes/attributes-meta.php:26
+#: modules/attributes/attributes-settings.php:23
+msgid "Attributes"
+msgstr "Eigenschappen"
+
+#: includes/register-product.php:229
+msgid "Details"
+msgstr "Gegevens"
+
+#. Author URI of the plugin/theme
+msgid "https://implecode.com/#cam=in-plugin-urls&key=author-url"
+msgstr "https://implecode.com/#cam=in-plugin-urls&key=author-url"
+
+#. Author of the plugin/theme
+msgid "impleCode"
+msgstr "impleCode"
+
+#. Description of the plugin/theme
+msgid "WordPress eCommerce easy to use, powerful and beautiful plugin from impleCode. Great choice if you want to sell easy and quick. Or just beautifully present your products on WordPress website. Full WordPress integration does great job not only for Merchants but also for Developers and Theme Constructors."
+msgstr "WordPress eCommerce is een handige, krachtige en mooie plugin van impleCode. Een zeer goede keus als je snel en makkelijk wilt verkopen. Of, gewoon een mooie presentatie voor je producten op je WordPress website. Volledig in WordPress geintegreerd is het niet alleen geweldig voor verkopers, maar ook voor ontwikkelaars."
+
+#. Plugin URI of the plugin/theme
+msgid "https://implecode.com/wordpress/product-catalog/#cam=in-plugin-urls&key=plugin-url"
+msgstr "https://implecode.com/wordpress/product-catalog/#cam=in-plugin-urls&key=plugin-url"
+
+#: theme-product_adder_support.php:323
+msgid "<strong>Psst, it's less than 1 minute</strong> to add some translations to %s collaborative <a target='_blank' href='%s'>translation project</a>"
+msgstr "<strong>Psst, het duurt minder als 1 minuut</strong> om wat vertalingen toe te voegen aan %s <a target='_blank' href='%s'>vertaal project</a>"
+
+#: theme-product_adder_support.php:318
+msgid "Thank you for <a target=\"_blank\" href=\"%s\">your rating</a>! We appreciate your time and input."
+msgstr "Dank je voor <a target=\"_blank\" href=\"%s\">je stemming</a>.  Wij waarderen je mening en tijd."
+
+#: theme-product_adder_support.php:315
+msgid "Rate Now & Hide Forever"
+msgstr "Stem Nu & Verberg voor Altijd"
+
+#: theme-product_adder_support.php:314
+msgid "A <strong>huge thank you</strong> from impleCode and WordPress community in advance!"
+msgstr "Bij voorbaat<strong> veel dank</strong> van impleCode en de Wordpress gemeenschap!"
+
+#: theme-product_adder_support.php:311
+msgid "%s is a free software. Would you mind taking <strong>5 seconds</strong> to <a target=\"_blank\" href=\"%s\">rate the plugin</a> for us please? Your comments <strong>help others know what to expect</strong> when they install %s."
+msgstr "%s is een gratis software. Zou je graag <strong>5 seconden</strong> tijd maken om  <a target=\"_blank\" href=\"%s\"> de plugin te beoordelen </a> voor ons? Je beoordeling <strong> helpt anderen weten wat te verwachten </strong> wanneer ze %s installeren."
+
+#: theme-product_adder_support.php:183
+msgid "<strong>Your theme does not declare %s support</strong> &#8211; please proceed to sample product page where automatic layout adjustment can be done."
+msgstr "<strong>Je thema verklaart geen ondersteuning voor %s</strong> &#8211; ga door met een test productpagina waar je de automatische opmaak kan aanpassen."
+
+#: theme-product_adder_support.php:142
+msgid "I know, don't bug me"
+msgstr "Ik weet het, val me niet lastig"
+
+#: theme-product_adder_support.php:141
+msgid "Plugin Support"
+msgstr "Plugin Ondersteuning"
+
+#: templates/theme-integration.php:294
+msgid "Select Color"
+msgstr "Kies Kleur"
+
+#: templates/theme-integration.php:292
+msgid "Clear"
+msgstr "Wissen"
+
+#: templates/theme-integration.php:189
+msgid "Restart Advanced Mode Test"
+msgstr "Herstart Advanced Mode Test"
+
+#: templates/theme-integration.php:188
+msgid "Use the buttons below to try the advanced integration again or go to admin and start adding your products."
+msgstr "Gebruik de onderstaande knoppen om de  geavanceerde integratie opnieuw te proberen of ga naar het dashboard en begin met het toevoegen van je producten."
+
+#: templates/theme-integration.php:185
+msgid "You are using simple mode now."
+msgstr "Je gebruikt nu eenvoudige modus."
+
+#: templates/theme-integration.php:176 templates/theme-integration.php:189
+msgid "Go to Admin"
+msgstr "Ga naar Dashboard"
+
+#: templates/theme-integration.php:187
+msgid "You can switch between modes at any time in Product Settings."
+msgstr "Je kunt schakelen tussen de modes op elk gewenst moment in Productinstellingen."
+
+#: templates/theme-integration.php:169
+msgid "Free Theme Integration Guide"
+msgstr "Gratis thema integratiehandleiding"
+
+#: templates/theme-integration.php:168
+msgid "Please make your choice below or switch the theme."
+msgstr "Maak je keuze hieronder of wissel van thema."
+
+#: templates/theme-integration.php:166
+msgid "Switch the theme."
+msgstr "Wissel van thema"
+
+#: templates/theme-integration.php:164
+msgid "Keep using Simple Mode which is still functional."
+msgstr "Houd het gebruik van eenvoudige modus die nog steeds functioneel is."
+
+#: templates/theme-integration.php:163
+msgid "Get the Manual Theme Integration done."
+msgstr "Krijg de handmatige thema-integratie gedaan"
+
+#: templates/theme-integration.php:161
+msgid "You Have 3 choices"
+msgstr "Je hebt 3 keuzes"
+
+#: templates/theme-integration.php:160
+msgid "It seems that Manual Theme Integration is needed in order to use Advanced Mode with your current theme."
+msgstr "Het lijkt erop dat handmatige thema-integratie nodig is om de geavanceerde modus te gebruiken met je huidige thema."
+
+#: templates/theme-integration.php:152
+msgid "It's Broken"
+msgstr "Het is kapot"
+
+#: templates/theme-integration.php:150
+msgid "It's Fine"
+msgstr "Het is goed"
+
+#: templates/theme-integration.php:140
+msgid "Is everything looking fine now?"
+msgstr "Ziet alles er nu goed uit?"
+
+#: templates/theme-integration.php:131
+msgid "Disable Attributes"
+msgstr "Deactiveer de eigenschappen"
+
+#: templates/theme-integration.php:128
+msgid "Disable Shipping"
+msgstr "Deactiveer het verzenden"
+
+#: templates/theme-integration.php:122
+msgid "Disable Price"
+msgstr "Deactiveer de Prijs"
+
+#: templates/theme-integration.php:120
+msgid "Disable Image"
+msgstr "Afbeelding uitschakelen"
+
+#: templates/theme-integration.php:119
+msgid "Disable Name"
+msgstr "Deactiveer de Naam"
+
+#: templates/theme-integration.php:118
+msgid "Disable breadcrumbs"
+msgstr "Deactiveer de broodkruimels"
+
+#: templates/theme-integration.php:101
+msgid "Padding"
+msgstr "Marge"
+
+#: includes/customizer.php:165 templates/theme-integration.php:99
+msgid "Background"
+msgstr "Achtergrond"
+
+#: templates/theme-integration.php:98
+msgid "Width"
+msgstr "Breedte"
+
+#: templates/theme-integration.php:90
+msgid "Make some adjustments if necessary (you can change it at any time later)."
+msgstr "Maak eventueel aanpassingen indien nodig (je kunt het later op elk moment wijzigen)."
+
+#: templates/theme-integration.php:90
+msgid "Advanced Mode is temporary enabled for this page now."
+msgstr "Advanced Mode is tijdelijk ingeschakeld voor deze pagina nu."
+
+#: templates/theme-integration.php:79 templates/theme-integration.php:169
+msgid "Use Simple Mode"
+msgstr "Gebruik eenvoudige modus"
+
+#: templates/theme-integration.php:75
+msgid "Start Advanced Mode Test"
+msgstr "Begin Advanced Mode Test"
+
+#: templates/theme-integration.php:73
+msgid "Please use the button below to check out how the product page looks in Automatic Advanced Mode."
+msgstr "Gebruik de onderstaande knop om te controleren hoe het product pagina eruit ziet in de automatische Geavanceerd modus."
+
+#: templates/theme-integration.php:68
+msgid "In Simple Mode the product listing, product search and category pages are disabled (please read this Sample Product Page to fully understand the difference)."
+msgstr "In eenvoudige modus de product lijst, product zoeken en categorie pagina's zijn uitgeschakeld (Lees aub deze Sample Product Page om volledig te begrijpen wat het verschil is)."
+
+#: templates/templates-functions.php:1115
+msgid "Sorry, but nothing matched your search terms. Please try again with some different options or %sreset filters%s."
+msgstr "Sorry, maar er zijn geen resultaten voor deze zoektermen. Probeer het nog een keer met andere termen of %sbegin opnieuw%s."
+
+#: functions/catalog-admin.php:48
+msgid "Edit Product"
+msgstr "Wijzig Product"
+
+#: includes/widgets/search-widget.php:24
+msgid "A search form for your catalog items."
+msgstr "Een zoekformulier voor uw catalogus items."
+
+#: includes/widgets/search-widget.php:21
+msgid "A search form for your %s."
+msgstr "Een zoekformulier voor uw %s."
+
+#: includes/widgets/search-widget.php:20 includes/widgets/search-widget.php:84
+msgid "%s Search"
+msgstr "%s Zoeken"
+
+#: includes/widgets/related-products-widget.php:24
+msgid "Shows related catalog items."
+msgstr "Toont gerelateerde catalogus artikelen."
+
+#: includes/widgets/related-products-widget.php:23
+msgid "Related Catalog Items"
+msgstr "gerelateerde catalogus-artikelen"
+
+#: includes/widgets/related-products-widget.php:21
+msgid "Shows related %s."
+msgstr "Toont gerelateerde %s."
+
+#: includes/widgets/related-products-widget.php:20
+msgid "Related %s"
+msgstr "gerelateerde %s"
+
+#: modules/price/widgets/price-filter-widget.php:24
+msgid "Filter items by price."
+msgstr "Filter artikelen op prijs."
+
+#: modules/price/widgets/price-filter-widget.php:23
+msgid "Catalog Price Filter"
+msgstr "Catalogus Prijs Filter"
+
+#: modules/price/widgets/price-filter-widget.php:21
+msgid "Filter %s by price."
+msgstr "Filter %s op prijs."
+
+#: modules/price/widgets/price-filter-widget.php:20
+msgid "%s Price Filter"
+msgstr "%s Prijs Filter"
+
+#: includes/widgets/filter-widgets.php:145
+msgid "Sort catalog items dropdown."
+msgstr "sorteren catalogus artikelen dropdown."
+
+#: includes/widgets/filter-widgets.php:144
+msgid "Catalog Sort"
+msgstr "catalogus sorteren"
+
+#: includes/widgets/filter-widgets.php:142
+msgid "Sort %s dropdown."
+msgstr "Sorteren %s dropdown."
+
+#: includes/widgets/filter-widgets.php:141
+msgid "%s Sort"
+msgstr "%s Sorteren"
+
+#: includes/widgets/filter-widgets.php:54
+msgid "Filter items by categories."
+msgstr "Filter items per categorie."
+
+#: includes/widgets/filter-widgets.php:53
+msgid "Catalog Category Filter"
+msgstr "Catalogus categoriefilter"
+
+#: includes/widgets/filter-widgets.php:51
+msgid "Filter %s by categories."
+msgstr "Filter %s per categorie."
+
+#: includes/widgets/filter-widgets.php:50
+msgid "%s Category Filter"
+msgstr "%s Categoriefilter"
+
+#: includes/widgets/filter-widgets.php:24
+msgid "Appears above the product list. Recommended widgets: Catalog Search, Catalog Price Filter, Catalog Sort and Catalog Category Filter."
+msgstr "Verschijnt boven de lijst met producten. Aanbevolen widgets: Catalog Search, catalogusprijs Filter, Catalog Sorteren en Catalog Categorie Filter."
+
+#: includes/widgets/filter-widgets.php:23
+msgid "Catalog Filters Bar"
+msgstr "Catalogus Filter Bar"
+
+#: includes/widgets/filter-widgets.php:21
+msgid "Appears above the product list. Recommended widgets: %1$s Search, %1$s Price Filter, %1$s Sort and %1$s Category Filter."
+msgstr "Verschijnt boven de lijst met producten. Aanbevolen widgets: %1$s Search, %1$s Price Filter, %1$s Sort and %1$s Category Filter."
+
+#: includes/widgets/filter-widgets.php:20
+msgid "%s Filters Bar"
+msgstr "%s Filter balk"
+
+#: includes/widgets/category-widget.php:137
+msgid "Show hierarchy"
+msgstr "Toon hiërarchie"
+
+#: includes/widgets/category-widget.php:132
+msgid "Show product counts"
+msgstr "Toon Productaantallen"
+
+#: includes/widgets/category-widget.php:127
+msgid "Display as dropdown"
+msgstr "Toon als dropdown"
+
+#: includes/widgets/category-widget.php:119
+#: includes/widgets/filter-widgets.php:118
+#: includes/widgets/filter-widgets.php:174
+#: includes/widgets/filter-widgets.php:240
+#: includes/widgets/related-products-widget.php:53
+#: includes/widgets/search-widget.php:51
+#: modules/price/widgets/price-filter-widget.php:67
+msgid "Title:"
+msgstr "Titel:"
+
+#: includes/widgets/category-widget.php:57
+msgid "Select Category"
+msgstr "Kies categorie"
+
+#: includes/widgets/category-widget.php:51
+msgid "Select %s Category"
+msgstr "Selecteer %s categorie"
+
+#: includes/widgets/category-widget.php:24
+msgid "A list or dropdown of catalog categories"
+msgstr "Een dropdownlijst van catalogus categorieen"
+
+#: includes/widgets/category-widget.php:23
+msgid "Catalog Categories"
+msgstr "Catalogus categorie"
+
+#: includes/widgets/category-widget.php:21
+msgid "A list or dropdown of %s categories"
+msgstr "Een dropdownlijst van %s categorie"
+
+#: includes/system.php:347
+msgid "Not Declared"
+msgstr "Niet Aangegeven"
+
+#: includes/system.php:339
+msgid "Parent Theme Author URL"
+msgstr "URL van de Maker van het Hoofdthema"
+
+#: includes/system.php:335
+msgid "Parent Theme Version"
+msgstr "Hoofdthema Versie"
+
+#: includes/system.php:331
+msgid "Parent Theme Name"
+msgstr "Hoofdthema Naam"
+
+#: includes/system.php:323
+msgid "If you're modifying %s or a parent theme you didn't build personally we recommend using a child theme. See: <a href=\"%s\" target=\"_blank\">How to create a child theme</a>"
+msgstr "Als je %s of een hoofdthema wijzigt die je niet zelf hebt gebouwd, raden wij je aan een child-thema aan te maken. Zie: <a href=\"%s\" target=\"_blank\"> Een child-thema maken </a>"
+
+#: includes/system.php:321
+msgid "Child Theme"
+msgstr "Subthema"
+
+#: includes/system.php:317
+msgid "Author URL"
+msgstr "URL auteur"
+
+#: includes/system.php:312
+msgid "is available"
+msgstr "is beschikbaar"
+
+#: includes/system.php:307
+msgid "Version"
+msgstr "Versie"
+
+#: includes/settings/csv.php:193 includes/settings/csv.php:235
+#: includes/system.php:303
+msgid "Name"
+msgstr "Naam"
+
+#: includes/system.php:295
+msgid "Theme"
+msgstr "Thema"
+
+#: includes/system.php:283
+msgctxt "by author"
+msgid "by %s"
+msgstr "door %s"
+
+#: includes/system.php:278
+msgid "Visit plugin homepage"
+msgstr "Bezoek de plugin homepagina"
+
+#: includes/system.php:254
+msgid "Active Plugins"
+msgstr "Actieve plugins"
+
+#: includes/system.php:244
+msgid "N/A"
+msgstr "N/A"
+
+#: includes/system.php:236
+msgid "Server Locale"
+msgstr "Server Locale"
+
+#: includes/system.php:227
+msgid "Max Upload Size"
+msgstr "Max Upload Grootte"
+
+#: includes/system.php:217
+msgid "MySQL Version"
+msgstr "MySQL-versie"
+
+#: includes/system.php:212
+msgid "PHP Max Input Vars"
+msgstr "PHP Max Input Vars"
+
+#: includes/system.php:208
+msgid "PHP Time Limit"
+msgstr "PHP Tijdslimiet"
+
+#: includes/system.php:204
+msgid "PHP Post Max Size"
+msgstr "PHP Max Bericht Grootte"
+
+#: includes/system.php:199
+msgid "PHP Version"
+msgstr "PHP versie"
+
+#: includes/system.php:195
+msgid "Server Info"
+msgstr "Serverinformatie"
+
+#: includes/system.php:190
+msgid "Server Environment"
+msgstr "Serveromgeving"
+
+#: includes/system.php:181
+msgid "Language"
+msgstr "Taal"
+
+#: includes/system.php:172
+msgid "WP Debug Mode"
+msgstr "WP Debug Modus"
+
+#: includes/system.php:165
+msgid "WP Memory Limit"
+msgstr "WP Geheugen Limiet"
+
+#: includes/system.php:156
+msgid "WP Multisite"
+msgstr "WP Multisite"
+
+#: includes/system.php:152
+msgid "WP Version"
+msgstr "WP Versie"
+
+#: includes/system.php:131
+msgid "Site URL"
+msgstr "Site URL"
+
+#: includes/system.php:127
+msgid "Home URL"
+msgstr "Startpagina URL"
+
+#: includes/system.php:122
+msgid "WordPress Environment"
+msgstr "WordPress Omgeving"
+
+#: includes/system.php:111
+msgid "Delete all items and categories on uninstall"
+msgstr "Verwijder alle items en categorieën bij het deïnstalleren"
+
+#: includes/system.php:107
+msgid "Empty Default Filters Bar"
+msgstr "Leeg de standaard filterbalk"
+
+#: includes/system.php:106
+msgid "Make default filters bar empty."
+msgstr "Maak standaard filterbalk leeg."
+
+#: includes/system.php:91
+msgid "Reset product settings"
+msgstr "Herstel de productinstellingen"
+
+#: includes/system.php:86
+msgid "impleCode Tools"
+msgstr "impleCode Tools"
+
+#: includes/system.php:77 includes/tracking.php:367
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: includes/system.php:77
+msgid "OK"
+msgstr "Oké"
+
+#: includes/system.php:76
+msgid "Default filters bar will become empty."
+msgstr "Standaard filterbalk zal leeg worden."
+
+#: includes/system.php:74
+msgid "Filters bar is now empty by default!"
+msgstr "Filterbalk is nu standaard leeg."
+
+#: includes/system.php:68
+msgid "All catalog categories will be permanently deleted. Would you like to proceed?"
+msgstr "Alle cataloguscategorieën worden permanent verwijderd. Wil je doorgaan?"
+
+#: includes/system.php:66
+msgid "All Catalog Categories successfully deleted!"
+msgstr "Alle cataloguscategorieën zijn verwijderd."
+
+#: includes/system.php:42
+msgid "All items will be permanently deleted. Would you like to proceed?"
+msgstr "Alle items worden permanent verwijderd. Wil je doorgaan?"
+
+#: includes/system.php:30 includes/system.php:43 includes/system.php:69
+msgid "No"
+msgstr "Nee"
+
+#: includes/system.php:30 includes/system.php:43 includes/system.php:69
+#: templates/shortcode-catalog.php:208
+msgid "Yes"
+msgstr "Ja"
+
+#: includes/system.php:29
+msgid "All catalog settings will be reset to defaults. Would you like to proceed?"
+msgstr "Alle catalogusinstellingen worden teruggezet naar de standaardinstellingen. Wil je doorgaan?"
+
+#: includes/system.php:27
+msgid "Catalog Settings successfully reset to default!"
+msgstr "Catalogusinstellingen zijn teruggezet naar de standaardinstelling."
+
+#: includes/system.php:14
+msgid "System Status"
+msgstr "Systeemstatus"
+
+#: modules/shipping/shipping-settings.php:100
+msgid "Shipping disabled. To enable set minimum 1 shipping option."
+msgstr "Verzending uitgeschakeld. Stel minimum 1 Verzendoptie in om te activeren."
+
+#: modules/shipping/shipping-settings.php:78
+msgid "Shipping default cost"
+msgstr "Standaard verzendkosten"
+
+#: modules/shipping/shipping-settings.php:78
+msgid "Shipping default name"
+msgstr "Standaardnaam Verzending"
+
+#: modules/shipping/shipping-settings.php:75
+msgid "If you fill out the fields below, system will automatically pre-fill the fields when adding new item so you doesn't have to fill them every time.</p><p>When every item in your catalogue has different shipping options you can leave all or just a part of these fields empty."
+msgstr "Als je alle onderstaande velden invult, zal het systeem deze velden op de productpagina's op voorhand automatisch invullen zodat je ze niet telkens moet ingeven elke keer dat je een product toevoegt.</p><p>Als elk product in je catalogus verschillende verzendopties heeft, kun je sommige of al deze velden leeg laten. "
+
+#: modules/shipping/shipping-settings.php:69
+msgid "Number of shipping options"
+msgstr "Aantal Verzendopties"
+
+#: modules/shipping/shipping-settings.php:51
+#: modules/shipping/shipping-settings.php:60
+msgid "Shipping Settings"
+msgstr "Verzend Instellingen"
+
+#: includes/settings/general.php:481
+msgid "Sort by Newest"
+msgstr "Sorteer op nieuwste"
+
+#: config/const.php:19
+msgid "Product"
+msgstr "Product"
+
+#: includes/settings/general.php:359
+msgid "sorting"
+msgstr "Sorteren"
+
+#: includes/settings/general.php:358
+msgid "shortcode"
+msgstr "shortcode"
+
+#: modules/sku/sku-settings.php:36 templates/theme-integration.php:125
+msgid "Disable SKU"
+msgstr "SKU Uitschakelen"
+
+#: modules/price/price-settings.php:91
+msgid "Decimal Separator"
+msgstr "Decimalen Scheidingsteken"
+
+#: modules/price/price-settings.php:90
+msgid "Thousands Separator"
+msgstr "Duizendtallen Scheidingsteken"
+
+#: modules/price/price-settings.php:89
+msgid "Space between currency & price"
+msgstr "Ruimte tussen munteenheid en prijs"
+
+#: modules/price/price-settings.php:86
+msgid "After Price"
+msgstr "Na de prijs"
+
+#: modules/price/price-settings.php:85
+msgid "Before Price"
+msgstr "Voor de prijs"
+
+#: modules/price/price-settings.php:84
+msgid "Currency position"
+msgstr "Positie valuta"
+
+#: modules/price/price-settings.php:83
+msgid "Custom Currency Symbol"
+msgstr "Aangepast valutasymbool"
+
+#: modules/price/price-settings.php:79
+msgid "Your currency"
+msgstr "Je valuta"
+
+#: modules/price/price-settings.php:75 modules/price/price-settings.php:89
+msgid "Off"
+msgstr "Uit"
+
+#: modules/price/price-settings.php:75 modules/price/price-settings.php:89
+msgid "On"
+msgstr "Aan"
+
+#: modules/price/price-settings.php:72
+msgid "Payment and currency"
+msgstr "Betaling en valuta"
+
+#: includes/settings/general.php:329
+msgid "Breadcrumbs Settings"
+msgstr "Breadcrumbs Instellingen"
+
+#: includes/settings/general.php:324
+msgid "Enable SEO title separator"
+msgstr "Schakel SEO titel scheidingsteken in"
+
+#: includes/settings/general.php:323
+msgid "Archive SEO Title"
+msgstr "Archief SEO Titel"
+
+#: includes/settings/general.php:309
+msgid "SEO Settings"
+msgstr "SEO Instellingen"
+
+#: includes/settings/general.php:304
+msgid "Show Related"
+msgstr "Laat de gerelateerde items zien"
+
+#: includes/settings/general.php:303
+msgid "Disable Image on Category Page"
+msgstr "Deactiveer de afbeelding op de categorie pagina"
+
+#: includes/settings/general.php:302
+msgid "URLs"
+msgstr "URLs"
+
+#: includes/settings/general.php:302
+msgid "Template"
+msgstr "Template"
+
+#: includes/settings/general.php:302
+msgid "Categories Display"
+msgstr "Categorieën Weergave"
+
+#: includes/settings/custom-names.php:58 includes/settings/custom-names.php:69
+#: includes/settings/general.php:301
+msgid "Subcategories"
+msgstr "Subcategorieën"
+
+#: includes/settings/general.php:301
+msgid "Category Page shows"
+msgstr "Categoriepagina laat zien"
+
+#: includes/settings/general.php:297
+msgid "category-name"
+msgstr "categorienaam"
+
+#: includes/settings/general.php:297
+msgid "Cannot be the same as product listing page slug."
+msgstr "Kan niet hetzelfde zijn als het productlijst paginaslug."
+
+#: includes/settings/general.php:288
+msgid "Categories Parent URL"
+msgstr "URL Bovenliggende Categoriën"
+
+#: includes/settings/general.php:274
+msgid "Categories Settings"
+msgstr "Categoriën Instellingen"
+
+#: includes/settings/general.php:267
+msgid "This is also the default setting for sorting drop-down."
+msgstr "Dit is ook de standaardinstelling voor het sorteren van de drop-down."
+
+#: includes/settings/general.php:264
+msgid "You can also use shortcode with products_limit attribute to set this."
+msgstr "Je kunt ook gebruik maken van shortcode met products_limit attribuut om dit in te stellen."
+
+#: includes/settings/general.php:128 includes/settings/general.php:130
+#: templates/theme-integration.php:293
+msgid "Default"
+msgstr "Standaard"
+
+#: includes/activation-config.php:314 includes/settings/general.php:244
+msgid "Catalog Plural Name"
+msgstr "Catalogus Meervoudige Naam"
+
+#: includes/activation-config.php:313 includes/activation-config.php:314
+#: includes/settings/general.php:243 includes/settings/general.php:244
+msgid "Admin panel customisation setting. Change it to what you sell."
+msgstr "Beheerdersdashboard aanpasbare instellingen, verander het naar wat je verkoopt."
+
+#: includes/activation-config.php:313 includes/settings/general.php:243
+msgid "Catalog Singular Name"
+msgstr "Catalogus Enkelvoudige Naam"
+
+#: includes/customizer.php:256
+msgid "Product Catalog"
+msgstr "Productcatalogus"
+
+#: includes/customizer.php:49 includes/settings/general.php:214
+msgid "Disable Product Name"
+msgstr "Deactiveer productnaam"
+
+#: includes/customizer.php:195 includes/settings/general.php:212
+#: templates/theme-integration.php:108
+msgid "Right"
+msgstr "Rechts"
+
+#: includes/customizer.php:195 includes/settings/general.php:212
+#: templates/theme-integration.php:108
+msgid "Left"
+msgstr "Links"
+
+#: includes/customizer.php:195 includes/settings/general.php:212
+#: templates/theme-integration.php:108
+msgid "Disabled"
+msgstr "Uitgeschakeld"
+
+#: includes/settings/general.php:212 templates/theme-integration.php:108
+msgid "Default Sidebar"
+msgstr "Standaard sidebar"
+
+#: includes/settings/general.php:210
+msgid "Catalog Container Padding"
+msgstr "Catalogus Container Padding"
+
+#: includes/settings/general.php:209
+msgid "Catalog Container Background"
+msgstr "Catalogus Container Achtergrond"
+
+#: includes/settings/general.php:208
+msgid "Catalog Container Width"
+msgstr "Catalogie container breedte "
+
+#: includes/settings/general.php:17 includes/settings/general.php:83
+#: includes/settings/general.php:94
+msgid "General Settings"
+msgstr "Algemene Instellingen"
+
+#: includes/settings/custom-names.php:171
+msgid "Category Products Header"
+msgstr "Header voor productcategorie"
+
+#: includes/settings/custom-names.php:170
+msgid "Category Prefix"
+msgstr "Categorie Prefix"
+
+#: includes/settings/custom-names.php:169
+msgid "Subcategories Header"
+msgstr "Header voor subcategorie"
+
+#: includes/settings/custom-names.php:168
+msgid "Categories Header"
+msgstr "Categoriekoppen"
+
+#: includes/settings/custom-names.php:157
+msgid "Product listing pages are disabled due to a lack of theme integration.%s"
+msgstr "Productlijsten zijn uitgeschakeld wegens het niet ondersteunen van het thema. %s"
+
+#: includes/settings/custom-names.php:155
+msgid "Product listing pages are disabled with simple theme integration. See <a href=\"%s\">Theme Integration Guide</a> to enable product listing pages."
+msgstr "Productlijst pagina's zijn uitgeschakeld met eenvoudige thema integratie. Zie <a href=\"%s\">Thema integratiehandleiding</a> om produkt lijst pagina's in te schakelen.."
+
+#: includes/settings/custom-names.php:127
+msgid "Return to Products"
+msgstr "Terug naar Producten"
+
+#: includes/settings/custom-names.php:126
+msgid "Another Categories"
+msgstr "Andere Categoriën"
+
+#: includes/settings/custom-names.php:125
+msgid "Features Label"
+msgstr "Eigenschappen Label"
+
+#: modules/shipping/shipping-settings.php:166
+msgid "Shipping Label"
+msgstr "Verzending Label"
+
+#: modules/sku/sku-settings.php:23
+msgid "SKU Label"
+msgstr "SKU Label"
+
+#: modules/price/price-settings.php:57
+msgid "Price Label"
+msgstr "Prijs Label"
+
+#: includes/settings/custom-names.php:121
+#: includes/settings/custom-names.php:164
+msgid "Front-end Text"
+msgstr "Front-end Tekst"
+
+#: includes/settings/custom-names.php:121
+#: includes/settings/custom-names.php:164
+msgid "Front-end Element"
+msgstr "Front-end Element"
+
+#: includes/settings/custom-names.php:82 includes/settings/custom-names.php:118
+#: includes/settings/custom-names.php:150
+msgid "Front-end Labels"
+msgstr "Front-end Labels"
+
+#: includes/settings/custom-names.php:61 includes/settings/custom-names.php:72
+msgid "« Previous Page"
+msgstr "« Vorige pagina"
+
+#: includes/settings/custom-names.php:60 includes/settings/custom-names.php:71
+msgid "Next Page »"
+msgstr "Volgende pagina »"
+
+#: includes/settings/custom-names.php:57 includes/settings/custom-names.php:68
+#: includes/settings/general.php:265
+msgid "Main Categories"
+msgstr "Hoofdcategorieen"
+
+#: includes/settings/custom-names.php:66
+msgid "All Products"
+msgstr "Alle Producten"
+
+#: includes/settings/custom-names.php:23 includes/settings/custom-names.php:35
+msgid "See also different:"
+msgstr "Zie ook:"
+
+#: includes/settings/custom-names.php:20 includes/settings/custom-names.php:32
+msgid "SKU:"
+msgstr "SKU:"
+
+#: includes/settings/custom-design.php:242
+msgid "archive pagination"
+msgstr "archief paginering"
+
+#: includes/settings/custom-design.php:242
+msgid "product archive title"
+msgstr "Productarchief titel"
+
+#: includes/settings/custom-design.php:231
+msgid "Boxes Color"
+msgstr "Kleur Vakken"
+
+#: modules/price/price-settings.php:43
+msgid "product archive"
+msgstr "product archief"
+
+#: includes/customizer.php:120 includes/settings/custom-design.php:238
+#: modules/price/price-settings.php:40
+msgid "Grey"
+msgstr "Grijs"
+
+#: includes/customizer.php:120 includes/settings/custom-design.php:237
+#: modules/price/price-settings.php:39
+msgid "Blue"
+msgstr "Blauw"
+
+#: includes/customizer.php:120 includes/settings/custom-design.php:236
+#: modules/price/price-settings.php:38
+msgid "Green"
+msgstr "Groen"
+
+#: includes/customizer.php:120 includes/settings/custom-design.php:235
+#: modules/price/price-settings.php:37
+msgid "Orange"
+msgstr "Oranje"
+
+#: includes/customizer.php:120 includes/settings/custom-design.php:234
+#: modules/price/price-settings.php:36
+msgid "Red"
+msgstr "Rood"
+
+#: includes/customizer.php:116 modules/price/price-settings.php:33
+msgid "Price Color"
+msgstr "Prijs Kleur"
+
+#: modules/price/price-settings.php:30 modules/price/price-settings.php:43
+msgid "single product"
+msgstr "enkel product"
+
+#: includes/customizer.php:134 modules/price/price-settings.php:27
+msgid "Small"
+msgstr "Klein"
+
+#: includes/customizer.php:130 modules/price/price-settings.php:24
+msgid "Price Size"
+msgstr "Grootte Prijs"
+
+#: includes/settings/custom-design.php:226
+msgid "Impact"
+msgstr "Impact"
+
+#: includes/settings/custom-design.php:225
+msgid "Example Effect"
+msgstr "Voorbeeld Effect"
+
+#: includes/settings/custom-design.php:224
+msgid "Value"
+msgstr "Waarde"
+
+#: includes/settings/custom-design.php:223
+msgid "Setting"
+msgstr "Instelling"
+
+#: includes/settings/custom-design.php:220
+msgid "You can figure it out by checking \"impact\" column."
+msgstr "Je kunt de impact op andere pagina's bekijken in de kolom \"impact\"."
+
+#: includes/settings/custom-design.php:220
+msgid "Changing design schemes has almost always impact on various elements. For example changing price color has impact on single product page and archive page price color."
+msgstr "Het schema van de Vormgeving wijzigen heeft bijna altijd een impact op verscheidene elementen. Als je bijvoorbeeld de kleur van de prijs wijzigt, heeft dit ook impact op de kleur van de prijs op de pagina van een enkel product of kleur van de prijs op de archiefpagina."
+
+#: includes/settings/custom-design.php:190
+msgid "The default image will be used on the listing only when unchecked."
+msgstr "De standaard afbeelding wordt alleen in de weergave gebruikt wanneer het niet is geselecteerd."
+
+#: includes/settings/custom-design.php:188
+msgid "The image on single page will not be linked when unchecked."
+msgstr "De afbeelding op een enkele pagina wordt niet gekoppeld wanneer deze niet is geselecteerd."
+
+#: includes/settings/custom-design.php:187
+msgid "The image will be used only on the listing when unchecked."
+msgstr "De afbeelding wordt alleen in de lijst gebruikt wanneer deze niet is geselecteerd."
+
+#: includes/settings/custom-design.php:184
+msgid "Product Gallery"
+msgstr "Productgalerij"
+
+#: includes/settings/custom-design.php:182
+msgid "Upload Default Image"
+msgstr "Upload standaardafbeelding"
+
+#: includes/settings/custom-design.php:181
+msgid "Default Product Image"
+msgstr "Standaard productafbeelding"
+
+#: includes/settings/custom-design.php:136
+#: includes/settings/custom-design.php:137
+msgid "The product listing element width will adjust accordingly to your theme content width."
+msgstr "De breedte van het productnotering element past zich aan volgens aan de breedte van je thema's inhoud."
+
+#: includes/customizer.php:148 includes/settings/custom-design.php:130
+msgid "Classic Grid"
+msgstr "Klassiek Raster"
+
+#: includes/customizer.php:148 includes/settings/custom-design.php:116
+msgid "Classic List"
+msgstr "Klassieke Lijst"
+
+#: includes/settings/custom-design.php:107
+#: includes/settings/custom-design.php:108
+#: includes/settings/custom-design.php:136
+#: includes/settings/custom-design.php:137
+msgid "Per row"
+msgstr "Per rij"
+
+#: modules/attributes/attributes-settings.php:224
+msgid "Show Attributes"
+msgstr "Toon eigenschappen"
+
+#: modules/attributes/attributes-settings.php:224
+msgid "Use this only with short attributes labels and values e.g. Color: Red"
+msgstr "Gebruik dit alleen bij korte eigenschaplabels en waarden, bijv. Kleur: rood"
+
+#: includes/settings/custom-design.php:106
+#: includes/settings/custom-design.php:121
+#: includes/settings/custom-design.php:135 modules/sku/sku-settings.php:35
+msgid "Additional Settings"
+msgstr "Bijkomende Instellingen"
+
+#: includes/customizer.php:148 includes/settings/custom-design.php:101
+msgid "Modern Grid"
+msgstr "Modern Raster"
+
+#: includes/settings/custom-design.php:73
+#: includes/settings/custom-design.php:179
+#: includes/settings/custom-design.php:218
+msgid "Design Settings"
+msgstr "Vormgeving Instellingen"
+
+#: includes/settings/custom-design.php:54
+msgid "gallery"
+msgstr "galerij"
+
+#: includes/settings/custom-design.php:44
+#: includes/settings/custom-design.php:219
+msgid "Design Schemes"
+msgstr "Vormgeving Schema"
+
+#: includes/settings/custom-design.php:17
+msgid "Catalog Design"
+msgstr "Cataloog Vormgeving"
+
+#: includes/register-product.php:228 includes/settings/csv.php:197
+#: includes/settings/csv.php:239
+msgid "Long Description"
+msgstr "Lange beschrijving"
+
+#: includes/register-product.php:227 includes/settings/csv.php:196
+#: includes/settings/csv.php:238
+msgid "Short Description"
+msgstr "Korte omschrijving"
+
+#: includes/settings/csv.php:192 includes/settings/csv.php:234
+msgid "Image URL"
+msgstr "URL afbeelding"
+
+#: includes/settings/csv.php:154
+msgid "Permission error. Please check WordPress uploads %sfolder permissions%s."
+msgstr "Probleem met de toegangsrechten. Controleer de Wordpress Uploads %smaprechten%s."
+
+#: includes/settings/csv.php:140
+msgid "Number of product fields and number of fields in CSV file do not match!"
+msgstr "Aantal productvelden en aantal velden in CSV-bestand komen niet overeen."
+
+#: includes/settings/csv.php:128
+msgid "%s products successfully added to the catalog"
+msgstr "%s producten met succes toegevoegd aan de catalogus"
+
+#: includes/settings/csv.php:89
+msgid "Download CSV Template"
+msgstr "Download CSV Template"
+
+#: includes/settings/csv.php:89
+msgid "The first row should contain the field names. %s should be used as the CSV separator."
+msgstr "De eerste rij moet de veldnamen bevatten. %s zou gebruikt moeten worden als het CSV-scheidingsteken."
+
+#: includes/settings/csv.php:89
+msgid "The CSV fields should be in following order: Image URL, Name, Price, Categories, Short Description, Long Description."
+msgstr "De CSV-velden moeten in de volgende volgorde zijn: Foto link, Naam, Prijs, Categorieën, Korte Beschrijving, Lang Beschrijving."
+
+#: includes/settings/csv.php:77
+msgid "Please upload only CSV files."
+msgstr "Upload alleen CSV-bestanden."
+
+#: includes/settings/csv.php:74
+msgid "There was a problem with your upload."
+msgstr "Er was een probleem bij het uploaden."
+
+#: includes/settings/csv.php:54
+msgid "import"
+msgstr "importeren"
+
+#: includes/settings/csv.php:41
+msgid "Download CSV"
+msgstr "Download CSV"
+
+#: includes/settings/csv.php:33
+msgid "Simple CSV"
+msgstr "Simpel CSV"
+
+#: modules/attributes/attributes-settings.php:125
+msgid "attributes"
+msgstr "eigenschappen"
+
+#: modules/attributes/attributes-settings.php:103
+msgid "Attributes disabled. To enable set minimum 1 attribute."
+msgstr "Eigenschappen zijn uitgeschakeld. Geef minimaal 1 eigenschap op om te activeren."
+
+#: includes/settings/custom-design.php:80
+#: includes/settings/custom-design.php:167
+#: includes/settings/custom-design.php:248
+#: includes/settings/custom-names.php:133
+#: includes/settings/custom-names.php:180 includes/settings/general.php:351
+#: modules/attributes/attributes-settings.php:119
+#: modules/shipping/shipping-settings.php:96
+msgid "Save changes"
+msgstr "Bewaar wijzigingen"
+
+#: modules/attributes/attributes-settings.php:73
+msgid "If you fill out the fields below, system will automatically pre-fill the fields on when adding new item so you doesn't have to fill them every time again.</p><p>When every item in your catalogue is different you can leave all or a part of these field empty."
+msgstr "Als je alle onderstaande velden invult, zal het systeem deze velden op de productpagina's op voorhand automatisch invullen zodat je ze niet telkens moet ingeven elke keer dat je een product toevoegt.</p><p>Als elk product in je catalogus verschillend is, kun je sommige of al deze velden leeg laten. "
+
+#: modules/attributes/attributes-settings.php:65
+#: modules/shipping/shipping-settings.php:69
+msgid "Update"
+msgstr "Bijwerken"
+
+#: modules/attributes/attributes-settings.php:46
+#: modules/attributes/attributes-settings.php:56
+msgid "Attributes Settings"
+msgstr "Eigenschappen Instellingen"
+
+#: includes/register-product.php:409
+msgid "M j, Y @ G:i"
+msgstr "j F Y @ H:i"
+
+#: includes/register-product.php:408
+msgid "%s submitted. <a target=\"_blank\" href=\"%s\">Preview %s</a>"
+msgstr "%s toegevoegd. <a target=\"_blank\" href=\"%s\">Voorbeeld %s</a>"
+
+#: includes/register-product.php:407
+msgid "Page saved."
+msgstr "Pagina bewaard."
+
+#: includes/register-product.php:404
+msgid "%s updated."
+msgstr "%s bijgewerkt."
+
+#: includes/register-product.php:403
+msgid "Custom field deleted."
+msgstr "Aangepast veld verwijderd."
+
+#: includes/register-product.php:402
+msgid "Custom field updated."
+msgstr "Aangepast veld bijgewerkt"
+
+#: includes/register-product.php:96 includes/register-product.php:358
+msgid "%s Image"
+msgstr "Afbeelding %s"
+
+#: modules/attributes/attributes-meta.php:43
+msgid "See <a target=\"_blank\" href=\"%s\">docs</a>."
+msgstr "Zie <a target=\"_blank\" href=\"%s\">documentatie</a>."
+
+#: modules/attributes/attributes-meta.php:43
+msgid "Only attributes with values set will be shown on product page."
+msgstr "Enkel eigenschappen met ingegeven waarden zullen op de productpagina getoond worden."
+
+#: modules/sku/sku-meta.php:27
+msgid "SKU"
+msgstr "SKU"
+
+#: modules/price/price-meta.php:26
+msgid "Please provide a correct price format according to your currency settings. Example price format: %s or %s"
+msgstr ""
+"Geef een correcte prijsformat op basis van je valuta-instellingen.\n"
+"Voorbeeld prijsformat: %s of %s"
+
+#: modules/price/price-meta.php:25
+msgid "you can change it in product settings"
+msgstr "Je kunt het wijzigen in product instellingen"
+
+#: modules/price/price-meta.php:25
+msgid "Example price format: %s or %s"
+msgstr "Voorbeeld prijsformat: %s of %s"
+
+#: modules/attributes/attributes-meta.php:24
+msgid "%s Attributes"
+msgstr "%s Eigenschappen"
+
+#: includes/settings/custom-names.php:21 modules/shipping/shipping-meta.php:25
+msgid "%s Shipping"
+msgstr "%s Verzending"
+
+#: includes/register-product.php:225
+msgid "%s Details"
+msgstr "%s informatie"
+
+#: includes/register-product.php:224
+msgid "%s description"
+msgstr "%s beschrijving"
+
+#: includes/register-product.php:223
+msgid "%s Short Description"
+msgstr "%s korte beschrijving"
+
+#: includes/register-product.php:109
+msgid "Nothing found in trash"
+msgstr "Niets gevonden in prullenbak"
+
+#: includes/register-product.php:108
+msgid "Nothing found"
+msgstr "Niets gevonden"
+
+#: includes/register-product.php:107
+msgid "Search Items"
+msgstr "Zoek items"
+
+#: includes/register-product.php:106
+msgid "View Item"
+msgstr "Bekijk item"
+
+#: includes/register-product.php:104
+msgid "Edit Item"
+msgstr "Bewerk item"
+
+#: includes/register-product.php:103 includes/register-product.php:105
+msgid "Add New Item"
+msgstr "Voeg nieuw item toe"
+
+#: includes/register-product.php:102
+msgid "Add New"
+msgstr "Nieuwe toevoegen"
+
+#: includes/register-product.php:93
+msgid "No %s found in trash"
+msgstr "Geen %s gevonden in de prullenbak"
+
+#: includes/register-product.php:92
+msgid "No %s found"
+msgstr "Geen %s gevonden"
+
+#: includes/register-product.php:91
+msgid "Search %s"
+msgstr "Zoek %s"
+
+#: includes/register-product.php:90
+msgid "View %s"
+msgstr "Bekijk %s"
+
+#: includes/register-product.php:88
+msgid "Edit %s"
+msgstr "Bewerk %s"
+
+#: includes/register-product.php:86 includes/register-product.php:87
+#: includes/register-product.php:89
+msgid "Add New %s"
+msgstr "Nieuwe %s"
+
+#: includes/product-settings.php:220
+msgid "Need Help?"
+msgstr "Hulp nodig?"
+
+#: includes/product-settings.php:213
+msgid "Please <a href=\"%s\">rate</a> this plugin and tell us if it works for you or not. It really helps development."
+msgstr "<a href=\"%s\">Beoordeel</a> deze plugin en vertel of het datgene is wat je zoekt of niet, dat helpt heel erg veel bij de ontwikkeling."
+
+#: includes/product-settings.php:212
+msgid "Rate this Plugin!"
+msgstr "Beoordeel deze plugin."
+
+#: includes/product-settings.php:197
+msgid "Click the button to visit impleCode website"
+msgstr "Klik op de knop om impleCode website te bezoeken"
+
+#: includes/product-settings.php:196
+msgid "See Now"
+msgstr "Bekijk nu"
+
+#: includes/product-settings.php:194
+msgid "Did you know?"
+msgstr "Wist je dat?"
+
+#: includes/product-settings.php:186
+msgid "Click the button to visit impleCode documentation"
+msgstr "Klik op de knop op de impleCode documentatie te bezoeken"
+
+#: includes/product-settings.php:185
+msgid "See in Docs"
+msgstr "Zie in Docx"
+
+#: includes/product-settings.php:184
+msgid "See %s configuration tips in the impleCode documentation"
+msgstr "Zie %s configuratie tips in de impleCode documentatie"
+
+#: includes/product-settings.php:182
+msgid "%s Settings in Docs"
+msgstr "%s Instellingen in Docs"
+
+#: includes/product-settings.php:16 includes/product-settings.php:49
+#: theme-product_adder_support.php:299
+msgid "Settings"
+msgstr "Instellingen"
+
+#: functions/functions.php:860 includes/product-columns.php:113
+#: includes/settings/custom-names.php:56 includes/settings/custom-names.php:67
+msgid "All"
+msgstr "Alles"
+
+#: includes/product-columns.php:28
+msgid "Product Categories"
+msgstr "Productcategoriën"
+
+#: includes/settings/csv.php:194 includes/settings/csv.php:236
+#: modules/price/price-meta.php:25 modules/price/price-meta.php:54
+#: modules/price/price-meta.php:106 modules/price/price-settings.php:75
+#: modules/price/widgets/price-filter-widget.php:47
+msgid "Price"
+msgstr "Prijs"
+
+#: includes/product-columns.php:25
+msgid "Product Name"
+msgstr "Productnaam"
+
+#: includes/product-category-columns.php:101 includes/product-columns.php:29
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: includes/product-category-columns.php:98 includes/product-columns.php:21
+msgid "ID"
+msgstr "ID"
+
+#: includes/product-category-columns.php:97 includes/product-columns.php:23
+#: includes/register-product.php:112 includes/register-product.php:360
+msgid "Image"
+msgstr "Afbeelding"
+
+#: includes/product-category-columns.php:78
+msgid "Select Category Image"
+msgstr "Selecteer categorie-afbeelding"
+
+#: includes/product-category-columns.php:21
+msgid "category"
+msgstr "categorie"
+
+#: includes/product-categories.php:54
+msgid "New Category"
+msgstr "Nieuwe Categorie"
+
+#: includes/product-categories.php:53
+msgid "Add New Category"
+msgstr "Categorie toevoegen"
+
+#: includes/product-categories.php:52
+msgid "Update Category"
+msgstr "Update categorie"
+
+#: includes/product-categories.php:51
+msgid "Edit Category"
+msgstr "Categorie aanpassen"
+
+#: includes/product-categories.php:50
+msgid "Parent Category:"
+msgstr "Hoofdcategorie"
+
+#: includes/product-categories.php:49
+msgid "Parent Category"
+msgstr "Hoofdcategorie"
+
+#: includes/product-categories.php:48
+msgid "All Categories"
+msgstr "Alle categorieën"
+
+#: includes/product-categories.php:47
+msgid "Search Categories"
+msgstr "Zoek categorieën"
+
+#: includes/product-categories.php:46
+msgid "Category"
+msgstr "Categorie"
+
+#: includes/product-categories.php:45 includes/product-categories.php:55
+#: includes/settings/csv.php:195 includes/settings/csv.php:237
+#: includes/settings/general.php:304
+msgid "Categories"
+msgstr "Categorieën"
+
+#: includes/product-categories.php:40
+msgid "New %s Category"
+msgstr "Nieuwe %s Categorie"
+
+#: includes/product-categories.php:39
+msgid "Add New %s Category"
+msgstr "Voeg een nieuwe %s Categorie toe"
+
+#: includes/product-categories.php:38
+msgid "Update %s Category"
+msgstr "Update %s Categorie"
+
+#: includes/product-categories.php:37
+msgid "Edit %s Category"
+msgstr "Bewerk %s Categorie:"
+
+#: includes/product-categories.php:36
+msgid "Parent %s Category:"
+msgstr "Hoofd %s Categorie:"
+
+#: includes/product-categories.php:35
+msgid "Parent %s Category"
+msgstr "Hoofd %s Categorie"
+
+#: includes/product-categories.php:34
+msgid "All %s Categories"
+msgstr "All %s Categorieën"
+
+#: includes/product-categories.php:33
+msgid "Search %s Categories"
+msgstr "Zoek %s Categorieën"
+
+#: includes/product-categories.php:32
+msgid "%s Category"
+msgstr "%s Categorie"
+
+#: includes/product-categories.php:31 includes/product-categories.php:41
+#: includes/widgets/category-widget.php:20
+msgid "%s Categories"
+msgstr "%s Categorieën"
+
+#: includes/extensions.php:831
+msgid "Check out extensions bundles"
+msgstr "Bekijk ook de extensiebundels"
+
+#: includes/extensions.php:831
+msgid "Do you need multiple extensions?"
+msgstr "Heb je meerdere extensies nodig?"
+
+#: includes/extensions.php:652
+msgid "You don't have permission to install and activate extensions."
+msgstr "Je hebt geen toestemming om te installeren en extensies te activeren."
+
+#: includes/extensions.php:646
+msgid "You need to provide the license key to activate the extension. Get yours <a href=\"%s\">here</a>."
+msgstr "Je moet de licentiesleutel aanschaffen om de extensie te activeren. Krijg de jouwe <a href=\"%s\">hier</a>."
+
+#: includes/extensions.php:639
+msgid "The supplied license key is not valid for this extension! Upgrade it <a href=\"%s\">here</a>."
+msgstr "De bijgeleverde licentiesleutel is niet geldig voor deze uitbreiding. Upgraden kan <a href=\"%s\">hier</a>."
+
+#: includes/extensions.php:633
+msgid "This is not a valid license key! Get it <a href=\"%s\">here</a>."
+msgstr "Dit is geen geldige licentiesleutel! Krijg het <a href=\"%s\">hier</a>."
+
+#: includes/extensions.php:514 includes/extensions.php:574
+msgid "Installed Extension"
+msgstr "geïnstalleerde extensie"
+
+#: includes/extensions.php:511 includes/extensions.php:572
+msgid "Active Extension"
+msgstr "Actieve extensie"
+
+#: includes/extensions.php:502 includes/extensions.php:563
+#: includes/extensions.php:599
+msgid "Click for more"
+msgstr "Klik voor meer"
+
+#: includes/extensions.php:497 includes/extensions.php:558
+#: includes/extensions.php:594
+msgid "Ready to Install"
+msgstr "Klaar om te installeren"
+
+#: includes/extensions.php:494 includes/extensions.php:552
+#: includes/extensions.php:591
+msgid "Advanced Mode Required"
+msgstr "Advanced Mode Verplicht"
+
+#: includes/extensions.php:221
+msgid "You can take advantage of premium support and <a href=\"%s\">send support tickets</a> to impleCode developers once you have your license key."
+msgstr "Je kunt profiteren van premium support en <a href=\"%s\">stuur support tickets</a> naar impleCode ontwikkelaars zodra je je licentiesleutel hebt."
+
+#: includes/extensions.php:220
+msgid "The installation process takes less than 10 seconds."
+msgstr "Het installatieproces duurt minder dan 10 seconden."
+
+#: includes/extensions.php:113 includes/extensions.php:152
+#: includes/extensions.php:194
+msgid "Paste your license key and click install button to start the extension installation process."
+msgstr "Plak je licentiesleutel en klik op de knop installeren om de uitbreiding installatieproces te starten."
+
+#: includes/extensions.php:112 includes/extensions.php:151
+#: includes/extensions.php:193
+msgid "Click on the extension to see full features list."
+msgstr "Klik op de uitbreiding om een volledige lijst met functies te zien."
+
+#: includes/extensions.php:111 includes/extensions.php:150
+#: includes/extensions.php:192
+msgid "Some extensions give even more features when combined with another one."
+msgstr "Sommige extensies geven nog meer functies in combinatie met een ander."
+
+#: includes/extensions.php:110 includes/extensions.php:149
+#: includes/extensions.php:191
+msgid "All extensions are designed to work with each other smoothly."
+msgstr "Alle extensies zijn ontworpen om vlot met elkaar samenwerken."
+
+#: includes/extensions.php:109 includes/extensions.php:148
+#: includes/extensions.php:190 includes/extensions.php:219
+msgid "Did you Know?"
+msgstr "Wist je dat?"
+
+#: includes/extensions.php:45
+msgid "Help"
+msgstr "Help"
+
+#: includes/extensions.php:27
+msgid "Installation"
+msgstr "Installatie"
+
+#: includes/extensions.php:41
+msgid "All premium extensions come with premium support provided by dev team.<br>Feel free to contact impleCode for configuration help, troubleshooting, installation assistance and any other plugin support at any time!"
+msgstr "Alle premium extensies zijn voorzien van premium ondersteuning die door het ontwikkelings team wordt aangeboden.<br>Voel je vrij om contact op te nemen met impleCode voor configuratiehulp, probleemoplossing, installatiehulp en elke andere plugin-ondersteuning op elk gewenst moment!"
+
+#: includes/extensions.php:39
+msgid "Extensions for %s"
+msgstr "Extensies voor %s"
+
+#: includes/extensions.php:16
+msgid "Extensions"
+msgstr "Extensies"
+
+#: functions/support.php:127
+msgid "You can get instant premium support from plugin developers"
+msgstr "Je kunt direct premium support krijgen van plugin-ontwikkelaars"
+
+#: functions/support.php:76
+msgid "As you may already know some themes may need Theme Integration to fully support %s. We wrote this <a href=\"%s\">theme integrations guide</a>, however to make it even easier you will get <a href=\"%s\">Advanced Theme Integration</a> service for free if you choose <a href=\"%s\">Premium Support</a> service."
+msgstr "Zoals je wellicht weet, kunnen sommige thema's Thema Integratie nodig hebben om %s volledig te ondersteunen. Ik schreef een <a href=\"%s\">gids voor thema-integraties</a>, maar om het nog makkelijker te maken, ontvang je gratis de <a href=\"%s\"> geavanceerde thema-integraties </a> service als je kiest voor de <a href=\"%s\"> premium ondersteuning </a> service."
+
+#: functions/support.php:75
+msgid "Theme Integration"
+msgstr "Thema-integratie"
+
+#: functions/support.php:73
+msgid "If you need to get it on different email address please use the <a href=\"%s\">impleCode website to order the premium support</a>. It will let you set different email address than the one for PayPal."
+msgstr "Als het op een ander e-mailadres gezet moet worden, ga dan naar <a href=\"%s\">impleCode website om de premium support te bestellen</a>. Dan kun je een ander e-mailadres gebruiken dan die voor PayPal."
+
+#: functions/support.php:72
+msgid "Go ahead and use the Buy Now button above to receive the premium support service and the free additions immediately. You will receive the premium extension on your PayPal email address immediately after the payment is confirmed."
+msgstr "Ga je gang en gebruik de knop Nu kopen hierboven om de premium ondersteuning service en de gratis toevoegingen onmiddellijk te ontvangen. Je ontvangt de premium extensie op je PayPal e-mailadres direct nadat de betaling is bevestigd."
+
+#: functions/support.php:70
+msgid "<b>Category widget enhancement</b> - Show child categories only on parent category pages"
+msgstr "<b>Categorie widget uitbreiding</b> - Toon subcategorieën alleen bij bovenliggende categoriepagina's"
+
+#: functions/support.php:69
+msgid "<b>More styling</b> - set product sidebar and product description width"
+msgstr "<b>Meer styling</b> - zet product sidebar en productomschrijving breedte"
+
+#: functions/support.php:68
+msgid "<b>Enable/disable sidebar</b> on product listing pages"
+msgstr "<b>Inschakelen/uitschakelen sidebar</b> op de productlijst pagina's"
+
+#: functions/support.php:67
+msgid "<b>Product sidebar</b> on product page under the image"
+msgstr "<b>Product sidebar</b> op product pagina onder de afbeelding"
+
+#: functions/support.php:66
+msgid "<b>Product tags</b> - which is considered as SEO booster if used properly"
+msgstr "<b>Product Tags</b> - wordt beschouwd als SEO booster indien goed gebruikt"
+
+#: functions/support.php:64
+msgid "Premium Features:"
+msgstr "Premium Features:"
+
+#: functions/support.php:63
+msgid "Apart of fast, confidential email support <b>every premium support member will receive some advanced features</b> for %s as a free welcome gift."
+msgstr "Afgezien van snelle, vertrouwelijke e-mail ondersteuning <b> krijgt elk premium support lid enkele geavanceerde functies </b> voor %s als een gratis welkomstcadeau."
+
+#: functions/support.php:62
+msgid "Premium Support Free Additions"
+msgstr "Premium Ondersteuning Gratis Toevoegingen"
+
+#: functions/support.php:58
+msgid "<b>Extensions apart of premium support</b> provide additional useful features. They improve %s in a field of <a href=\"%1$s\">SEO</a>, <a href=\"%3$s\">Productivity</a>, <a href=\"%2$s\">Usability</a> and <a href=\"%4$s\">Conversion</a>."
+msgstr "<b>Extensies</b> bieden extra nuttige functies. Ze verbeteren %s in het veld van <a href=\"%1$s\">SEO</a>, <a href=\"%3$s\">Productiviteit</a>, <a href=\"%2$s\">Gebruikersvriendelijkheid</a> en <a href=\"%4$s\">Conversie</a>."
+
+#: functions/support.php:41
+msgid "This awesome plugin is developed under impleCode brand which is a legally operating European company. It means that you can be assured that the high quality <b>development will be continuous</b>."
+msgstr "Deze geweldige plugin werd ontwikkeld onder het merk impleCode dat een legaal werkend bedrijf is. Dat betekent dat <b>je er zeker vanop aan kunt dat de hoogwaardige ontwikkeling ook continu zal zijn.</b>."
+
+#: functions/support.php:38
+msgid "impleCode Support"
+msgstr "impleCode Ondersteuning"
+
+#: templates/templates-functions.php:1110
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Helaas, er waren geen overeenkomsten met je zoekterm. Probeer het opnieuw met enkele andere zoekwoorden."
+
+#: functions/functions.php:1085
+msgid "%sAdd widgets to the filters bar now%s or %sdismiss this notice%s."
+msgstr "Voeg widgets toe aan de filterbalk %shier%s of %snegeer deze melding%s."
+
+#: functions/functions.php:1082
+msgid "Product Filters Bar has no widgets"
+msgstr "Er zijn geen widgets in de product filter balk"
+
+#: functions/functions.php:795 functions/support.php:18
+msgid "Support"
+msgstr "Ondersteuning"
+
+#: includes/settings/custom-names.php:62 includes/settings/custom-names.php:73
+msgid "Home"
+msgstr "Home"
+
+#: includes/settings/custom-names.php:33
+#: modules/shipping/shipping-functions.php:89
+#: modules/shipping/shipping-meta.php:27
+#: modules/shipping/shipping-settings.php:23
+msgid "Shipping"
+msgstr "Versturen"
+
+#: functions/functions.php:316 templates/templates-functions.php:589
+msgid "Search Results for:"
+msgstr "Zoekresultaten voor:"
+
+#: functions/functions.php:156
+msgid "View Page"
+msgstr "Pagina bekijken"
+
+#: functions/functions.php:153
+msgid "Edit"
+msgstr "Bewerken"
+
+#: functions/functions.php:146
+msgid "Custom URL"
+msgstr "Custom URL"
+
+#: functions/functions.php:93
+msgid "Reset image"
+msgstr "Reset afbeelding"
+
+#: functions/content-functions.php:90 functions/functions.php:507
+#: includes/widgets/search-widget.php:23 includes/widgets/search-widget.php:86
+msgid "Product Search"
+msgstr "Zoek Product"
+
+#: functions/content-functions.php:87
+msgid "Search"
+msgstr "Zoeken"
+
+#: functions/base.php:31
+msgid "Enter item name here"
+msgstr "Vul hier de naam van het item in"
+
+#: functions/base.php:29
+msgid "Enter %s name here"
+msgstr "Voer %s naam hier in"
+
+#: functions/activation.php:144
+msgid "The theme integration guide will show you a step by step process. If you finish it successfully the integration will be done. It is recommended to use theme integration guide even if the page looks good in simple mode or automatic advanced mode because it reassures 100% theme integrity."
+msgstr "Het thema integratie gids zal je een stapsgewijs proces laten zien. Als je die succesvol voltooid dan zal de integratie worden uitgevoerd. Het wordt aanbevolen om thema-integratiegids te gebruiken, zelfs als de pagina er goed uitziet in eenvoudige modus of automatische geavanceerde modus, omdat het verzekert van 100% thema-integriteit."
+
+#: functions/activation.php:143
+msgid "Click <a href=\"%s\">here</a> to test the Automatic Advanced Mode. If the test goes well you can keep it enabled and enjoy full %s functionality. If the page layout during the test will not be satisfying please see <a target=\"_blank\" href=\"%s\">Theme Integration Guide</a>"
+msgstr "Klik <a href=\"%s\">hier</a> om de Automatische Geavanceerde Modus te testen. Als deze test geslaagd is kun je deze modus ingeschakeld houden en gebruik maken van de volledige %s functionaliteit. Als de pagina layout tijdens de test niet voldoet, gelieve de <a target=\"_blank\" href=\"%s\">Thema Integratie Gids</a> te bekijken."
+
+#: functions/activation.php:142
+msgid "How to switch to Advanced Mode?"
+msgstr "Hoe naar Geavanceerde Modus overschakelen?"
+
+#: functions/activation.php:141
+msgid "The simple mode allows to use %s most features. You can build the product listing pages and category pages by using a %s shortcode. Simple mode uses your theme page layout so it can show unwanted elements on product page. If it does please switch to Advanced Mode and see if it works out of the box."
+msgstr "Met de eenvoudige modus kun je de meeste functies van %s gebruiken. Je kan de productpagina's en categoriepagina's bouwen met behulp van een %s shortcode. De eenvoudige modus gebruikt je thema-pagina-indeling, het kan ongewenste elementen op de productpagina weergeven. Als het wel het geval is, ga dan naar de geavanceerde modus en controleer of het goed werkt."
+
+#: functions/activation.php:140
+msgid "Simple Theme Integration Mode"
+msgstr "Eenvoudige Thema Integratie Modus"
+
+#: functions/activation.php:139
+msgid "The Advanced Mode works out of the box on all default WordPress themes and all themes with the integration done properly."
+msgstr "De Geavanceerde Modus werkt kant-en-klaar op alle standaard WordPress thema's en alle thema's waarbij de integratie degelijk gedaan werd. "
+
+#: functions/activation.php:138
+msgid "With Advanced Mode you will be able to use %s in %s. The product listing page, category pages, product search and category widget will be enabled in advanced mode. You can enable the Advanced Mode %s free. To see how please see <a target=\"_blank\" href=\"%s\">Theme Integration Guide</a>"
+msgstr "Met de Geadvanceerde Modus zal je %s kunnen gebruiken in %s. De  productlijst pagina, categoriepagina's, Product zoek and Categorie widget worden ingeschakeld in de geadvanceerde modus. Je kunt de geadvanceerde modus %s gratis inschakelen. Om te zien hoe bekijk je de <a target=\"_blank\" href=\"%s\">Thema Integratie Gids</a>"
+
+#: functions/activation.php:135
+msgid "Advanced Theme Integration Mode"
+msgstr "Geavanceerde Thema Integratiemodus"
+
+#: functions/activation.php:132
+msgid "This section is product long description. It should appear under the attributes table or in the description tab. Before that you should see the price, SKU and shipping options (all can be disabled). The attributes also can be disabled."
+msgstr "Dit gedeelte is een product lange beschrijving. Het moet verschijnen onder de attributen tabel of in de beschrijving tabblad. Vóór dit moet je de prijs, SKU en verzendopties zien (alles kan uitgeschakeld worden). De attributen kunnen ook worden uitgeschakeld."
+
+#: functions/activation.php:111
+msgid "lbs"
+msgstr "lbs"
+
+#: functions/activation.php:107 includes/customizer.php:134
+#: modules/price/price-settings.php:26
+msgid "Big"
+msgstr "Groot"
+
+#: functions/activation.php:106
+msgid "White"
+msgstr "Wit"
+
+#: functions/activation.php:105 modules/attributes/attributes-meta.php:290
+#: modules/attributes/attributes-settings.php:264
+msgid "Weight"
+msgstr "Gewicht"
+
+#: functions/activation.php:104 modules/attributes/attributes-meta.php:268
+#: modules/attributes/attributes-settings.php:263
+msgid "Size"
+msgstr "Grootte"
+
+#: functions/activation.php:103
+msgid "Color"
+msgstr "Kleur"
+
+#: functions/activation.php:94
+msgid "Sample Product Page"
+msgstr "Sample Product Pagina"
+
+#: config/const.php:22 includes/settings/custom-names.php:70
+msgid "Products"
+msgstr "Producten"
+
+#: ecommerce-product-catalog.php:78 ecommerce-product-catalog.php:90
+msgid "Cheatin&#8217; huh?"
+msgstr "Valsspelen he?"

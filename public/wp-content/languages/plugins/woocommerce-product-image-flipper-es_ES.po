@@ -1,0 +1,32 @@
+# Translation of Plugins - WooCommerce Product Image Flipper - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - WooCommerce Product Image Flipper - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-02-22 09:19:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - WooCommerce Product Image Flipper - Stable (latest release)\n"
+
+#. Author URI of the plugin
+msgid "http://jameskoster.co.uk"
+msgstr "http://jameskoster.co.uk"
+
+#. Author of the plugin
+msgid "jameskoster"
+msgstr "jameskoster"
+
+#. Description of the plugin
+msgid "Adds a secondary image on product archives that is revealed on hover. Perfect for displaying front/back shots of clothing and other products."
+msgstr "Añade una imagen secundaria en los archivos de producto que se muestra al pasar el cursor. Es perfecto para mostrar ropa de manera frontal y trasera de productos de ropa como otros productos."
+
+#. Plugin URI of the plugin
+msgid "http://jameskoster.co.uk/tag/product-image-flipper/"
+msgstr "http://jameskoster.co.uk/tag/product-image-flipper/"
+
+#. Plugin Name of the plugin
+msgid "WooCommerce Product Image Flipper"
+msgstr "WooCommerce Product Image Flipper"
