@@ -29,6 +29,7 @@ $myposts = get_posts( $args );
 
     <div id="primary" class="content-area">
         <?php while ( have_posts() ) : the_post(); ?>
+            <h1 class="text-center"><?php the_title(); ?></h1>
             <div class="hero">
                 <?php the_post_thumbnail(); ?>
             </div>
@@ -37,30 +38,34 @@ $myposts = get_posts( $args );
                 <?php the_content(); ?>
             </div>
             <div class="row">
-
                 <?php
-                //$i=1;
-                foreach ( $myposts as $post ) : setup_postdata( $post );
 
-                    // if($i%2 == 0){
-                    // 	$class = "split-right";
-                    // }else{
-                    // 	$class = "split-left";
-                    // }
-                    ?>
+                $args = array(
+                    'post_type'      => 'podcast',
+                    'posts_per_page' => -1,
+                    'orderby'		 => 'date',
+                    'order'      	 => 'DESC'
+                );
 
-                    <div class="climb-panel two-panel">
-                        <?php the_post_thumbnail(); ?>
-                        <a class="btn btn-default" href="<? the_permalink(); ?>"><? the_title(); ?></a>
-                    </div>
+                $parent = new WP_Query( $args );
 
+                if ( $parent->have_posts() ) : $i=1;?>
 
+                    <?php while ( $parent->have_posts() ) : $parent->the_post(); ?>
 
+                        <a class="custom-panel panel-two overable"  href="<?php the_permalink(); ?>" title="<?php the_title(); ?>">
+                            <?php the_post_thumbnail();?>
 
+                            <p class="podcast-episode-num">Episode <?php echo $i; ?></p>
 
+                            <p class="title-panel-acticles"><?php the_title(); ?></p>
+                            <!--                                <p class="date-panel-acticles">--><?php //the_field('date'); ?><!--</p>-->
 
-                <?php endforeach;
-                wp_reset_postdata();?>
+                        </a>
+
+                    <?php $i++; endwhile;
+
+                endif; ?>
 
             </div>
         <?php endwhile; ?>

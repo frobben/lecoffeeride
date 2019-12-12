@@ -4292,3 +4292,13 @@ body {
 	text-align: left;
 }
 
+.podcast-episode-num{
+	position: absolute;
+	top: 10%;
+	right: 50%;
+	transform: translate(50%,0);
+	color: white;
+	text-align: center;
+	font-weight: bold;
+	text-transform: capitalize;
+}
