@@ -44,12 +44,16 @@ $myposts = get_posts( $args );
                     'post_type'      => 'podcast',
                     'posts_per_page' => -1,
                     'orderby'		 => 'date',
-                    'order'      	 => 'DESC'
+                    'order'      	 => 'ASC'
                 );
 
                 $parent = new WP_Query( $args );
 
-                if ( $parent->have_posts() ) : $i=1;?>
+                if ( $parent->have_posts() ) :
+                    $i = $parent->post_count;
+
+
+                    ?>
 
                     <?php while ( $parent->have_posts() ) : $parent->the_post(); ?>
 
@@ -63,7 +67,7 @@ $myposts = get_posts( $args );
 
                         </a>
 
-                    <?php $i++; endwhile;
+                    <?php $i--; endwhile;
 
                 endif; ?>
 

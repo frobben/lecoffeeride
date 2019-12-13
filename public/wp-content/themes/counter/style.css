@@ -4294,6 +4294,7 @@ body {
 
 .podcast-episode-num{
 	position: absolute;
+	font-size: 2rem;
 	top: 10%;
 	right: 50%;
 	transform: translate(50%,0);
