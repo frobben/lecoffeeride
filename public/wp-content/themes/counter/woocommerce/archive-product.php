@@ -36,7 +36,7 @@ do_action( 'woocommerce_before_main_content' );
 	<?php if ( apply_filters( 'woocommerce_show_page_title', true ) ) : ?>
 		<h1 class="woocommerce-products-header__title page-title"><?php woocommerce_page_title(); ?></h1>
 	<?php endif; ?>
-	TEST
+
 	<?php
 	/**
 	 * Hook: woocommerce_archive_description.
@@ -58,26 +58,36 @@ if ( have_posts() ) {
 	 * @hooked woocommerce_result_count - 20
 	 * @hooked woocommerce_catalog_ordering - 30
 	 */
+
+    $title = strtolower(woocommerce_page_title(false));
+
 	do_action( 'woocommerce_before_shop_loop' );
 
-	woocommerce_product_loop_start();
+	if ($title !== 'shop' &&
+        $title !== 'women' &&
+        $title !== 'men'){
 
-	if ( wc_get_loop_prop( 'total' ) ) {
-		while ( have_posts() ) {
-			the_post();
+        woocommerce_product_loop_start();
 
-			/**
-			 * Hook: woocommerce_shop_loop.
-			 *
-			 * @hooked WC_Structured_Data::generate_product_data() - 10
-			 */
-			do_action( 'woocommerce_shop_loop' );
+        if ( wc_get_loop_prop( 'total' ) ) {
+            while ( have_posts() ) {
+                the_post();
 
-			wc_get_template_part( 'content', 'product' );
-		}
-	}
+                /**
+                 * Hook: woocommerce_shop_loop.
+                 *
+                 * @hooked WC_Structured_Data::generate_product_data() - 10
+                 */
+                do_action( 'woocommerce_shop_loop' );
 
-	woocommerce_product_loop_end();
+                wc_get_template_part( 'content', 'product' );
+            }
+        }
+
+        woocommerce_product_loop_end();
+
+
+    }
 
 	/**
 	 * Hook: woocommerce_after_shop_loop.
